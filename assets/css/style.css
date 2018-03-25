@@ -1,0 +1,249 @@
+body {
+  background-color: #219baa;
+  font-family: verdana, sans-serif;
+  margin: 0;
+  min-height: 100vh;
+}
+
+h1,h2,h3,h4,h5,h6,.impact {
+  font-family: impact;
+  font-weight: normal;
+  letter-spacing: 1px;
+  color: #fff;
+  padding: 0 0 15px 0;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: column wrap;
+}
+
+.flex-container-row {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+}
+
+header {
+  background-image: url(../images/header-background-slim.jpg);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 240px;
+}
+
+.left-side {
+  align-self: flex-start;
+}
+
+.right-side {
+  align-self: flex-end;
+}
+
+nav {
+  -webkit-flex: 1 1 20%;
+  -ms-flex: 1 1 20%;
+  flex: 1 1 20%;
+  align-self: flex-end;
+}
+
+.ob-main {
+  max-width: 1280px;
+  margin: 0 auto auto auto;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.sf-menu {
+  display: none;
+}
+.sf-dropdown-menu {
+  padding: -12px 0 0 6px;
+}
+
+.sf-menu, .sf-menu * {
+  list-style: none;
+}
+
+.sf-menu li {
+  border-bottom: 1px solid white;
+}
+.sf-menu a {
+  color: #ffffff;
+  font-size: .72em;
+  font-weight: normal;
+  line-height: 1.25em;
+  text-align: left;
+  padding: 7px 5px;
+  letter-spacing: normal;
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}
+
+.footer-bottom {
+  background-color: black;
+  color: #555;
+  font-size: .72em;
+}
+
+.topbar-widget {
+  height: 36px;
+  /* align-items: flex-end; */
+  background-color: black;
+  font-size: .8em;
+  align-items: flex-end;
+  padding-bottom: 12px;
+}
+
+.footer-top {
+  background-color: rgb(0, 129, 145);
+}
+
+.footer-icons {
+  margin-top: 3px;
+  height: 24px;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-credits {
+  text-align: center;
+}
+
+.call {
+    font-family: Impact;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.image-pride-usa {
+  height: 60px;
+}
+
+.search-query,
+.topbar-widget select,
+.mobilenav-button,
+.search-icon,
+.footer a:hover {
+    color: #ffc905;
+}
+
+.topbar-widget ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+
+.topbar-widget :-ms-input-placeholder, /* Internet Explorer 10-11 */
+.topbar-widget ::-ms-input-placeholder { /* Microsoft Edge */
+    color: white;
+}
+
+.topbar-widget select, .topbar-widget input {
+    background-color: transparent;
+    border: none;
+}
+
+.mobilenav-button {}
+
+.search-icon {
+  background-color: transparent;
+  border: none;
+}
+
+.search-icon, .search-query, .navselect, .mobilenav-button {
+  position: relative;
+  top: -6px;
+}
+
+.navselect {
+  width: 90vw;
+  position: relative;
+}
+
+.navselect option {
+  color: black;
+  background: white;
+}
+
+.container-vertical-center {
+  align-items: center;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.fa, .fas {
+    font-weight: 900;
+}
+
+.fa, .far, .fas {
+    font-family: Font Awesome\ 5 Free;
+}
+
+.fa-fw {
+    text-align: center;
+    width: 1.25em;
+}
+
+.fa, .fab, .fal, .far, .fas {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+@media only screen and (max-width: 320px) {
+  header {
+    background-image: url(../images/header-background-small.jpg);
+    min-height: 80px;
+  }
+
+}
+@media only screen and (min-width: 321px) {
+
+}
+  @media only screen and (min-width: 640px) {
+    .image-pride-usa {
+      height: auto;
+    }
+    .topbar-widget {
+      height: 36px;
+      align-items: flex-end;
+      background-color: black;
+      font-size: 100%;
+    }
+  }
+
+
+  @media only screen and (min-width: 768px) {
+    .mobilenav {
+      display: none;
+    }
+    .sf-menu {
+      display: block;
+    }
+    header {
+      background-image: url(../images/header-background.jpg);
+      min-height: 500px;
+    }
+    .footer-icons {
+      margin-top: 3px;
+      height: 48px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1050px) {
+
+}

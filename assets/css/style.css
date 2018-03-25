@@ -202,6 +202,16 @@ nav {
     line-height: 1;
 }
 
+.to-the-top i {
+  position: relative;
+  height: 36px;
+  width: 36px;
+  color: #ffc905;
+  right: 24px;
+  top: 36px;
+  font-size: 24px;
+}
+
 @media only screen and (max-width: 320px) {
   header {
     background-image: url(../images/header-background-small.jpg);

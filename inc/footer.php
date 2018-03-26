@@ -1,28 +1,27 @@
-<footer id="containerfooter" class="content-info " role="contentinfo" style="background: #008191;  padding:0; height: auto;">
-  <div class="container">
-    <div class="row">
-    </div>
-    <!--<div class="footerclass"></div>-->
-    <div id="content" class="container head-bottom">
-      <div class="row">
-        <div class="left-side"><img src="http://outbackfeeders.com/wp-content/uploads/2015/06/American-Flag1.png"></div>
-        <div class="right-side call"><a href="tel:+18003966313">800.396.6313</a></div>
-      </div>
-    </div>
+<!-- <footer id="containerfooter" class="footer flex-container" role="contentinfo" style="background: #008191;  padding:0; height: auto;"> -->
+<footer id="containerfooter" class="footer flex-container" role="contentinfo">
+  <div id="content" class="container footer-top flex-container-row container-vertical-center">
+      <div class="left-side"><img src="assets/images/American-Flag1.png" class="image-pride-usa"></div>
+      <div class="right-side call"><a href="tel:+18003966313">800.396.6313</a></div>
   </div>
-  <div class="copyright">
-    <div class="container">
-      <div class="row">
-        <p></p>
-        <p class="line"><font size="5">Outback Wildlife Feeders &copy; <b>800-396-6313</b></font><font size="3"> - Web Design by <a href="http://www.rkvideo.tv" target="_blank"> RK Productions</a></font></p>
-      </div>
-      <div class="social-icn">
-        <img class="alignright  wp-image-757" alt="creditcard icons_MC" src="http://outbackfeeders.com/wp-content/uploads/2015/02/creditcard-icons_MC.png" width="70" height="45">
-        <img class="alignright  wp-image-758" alt="creditcard icons_AE" src="http://outbackfeeders.com/wp-content/uploads/2015/02/creditcard-icons_AE.png" width="70" height="45"> <img class="alignright  wp-image-756" alt="creditcard icons_visa" src="http://outbackfeeders.com/wp-content/uploads/2015/02/creditcard-icons_visa.png" width="70" height="45">
-        <a href="https://plus.google.com/105053570710154312351" rel="publisher"><img src="http://outbackfeeders.com/wp-content/uploads/2015/06/g+1.png" alt="g+" class="alignright size-full wp-image-969" height="55" width="55" style="float: right;margin: 0 30px 0 0;"></a>
-        <a href="http://outbackfeeders.com/wp-content/uploads/2014/01/Facebook_logo2.png"><img src="http://outbackfeeders.com/wp-content/uploads/2015/06/fb1.png" alt="fb" class="alignright size-full wp-image-970" height="55" width="55"></a>
-      </div>
-      <p></p>
+  <div class="footer-bottom container flex-container-row container-vertical-center">
+    <div class="footer-credits left-side">
+      <p>Outback Wildlife Feeders &copy; <b>800-396-6313</b> - <a href="http://www.rkvideo.tv" target="_blank">Web Design by RK Productions</a></p>
+    </div>
+    <div class="social-icons right-side">
+      <a href="https://plus.google.com/105053570710154312351" rel="publisher">
+        <img src="assets/images/footer-icons.png" class="footer-icons" id="footer-icons" alt="Find us on Facebook, Google+. We accept Visa, American Express, and MasterCard" />
+      </a>
     </div>
   </div>
 </footer>
+<div id="topcontrol" title="To the top!" style="position: fixed; bottom: 52px; right: 0px; opacity: 1; cursor: pointer;">
+  <div class="to-the-top">
+    <a href="#"><i class="fas fa-arrow-circle-up"></i></a>
+  </div>
+</div>
+
+<script src="assets/js/ob-main.js"></script>
+<script src="custom.js"></script>
+</body>
+</html>

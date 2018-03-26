@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="description" content="<?php echo $pageDescription; ?>" />
     <meta name="keywords" content="<?php echo $pageKeywords; ?>" />
     <meta name="robots" content="index, follow" />
@@ -40,6 +41,6 @@
     <!-- Geocode data -->
     <meta name="DC.title" content="<?php echo $siteName; ?>" />
     <meta name="geo.region" content="US-TX" />
-    <meta name="geo.placename" content="Longview" />
-    <meta name="geo.position" content="32.500125;-94.7346" />
-    <meta name="ICBM" content="32.500125, -94.7346" />
+    <meta name="geo.placename" content="Gilmer" />
+    <meta name="geo.position" content="32.6550964, -94.9630285" />
+    <meta name="ICBM" content="32.6550964, -94.9630285" />

@@ -26,6 +26,20 @@ h1,h2,h3,h4,h5,h6,.impact {
   flex-flow: row wrap;
 }
 
+.block-container {
+  display: block;
+}
+
+.block-container-centered {
+  display: block;
+  margin: 0 auto;
+}
+
+.ob-carousel {
+  width: 70%;
+  max-width: 70vw;
+}
+
 header {
   background-image: url(../images/header-background-slim.jpg);
   background-size: contain;

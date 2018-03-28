@@ -20,5 +20,57 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
         </div>
       </div>
     </div>
+
+<div class="slick-outer block-container-centered ob-carousel">
+  <div class="slick slider-home">
+    <div><span>Image 0</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 1</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 2</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 3</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 4</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 5</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 6</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 7</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 8</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+    <div><span>Image 9</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+  </div>
+  <script type="text/javascript">
+  $('.slider-home').slick({
+    dots: true,
+    infinite: false,
+    speed: 300,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    responsive: [
+      {
+        breakpoint: 1024,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1,
+          infinite: true,
+          dots: true
+        }
+      },
+      {
+        breakpoint: 600,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      },
+      {
+        breakpoint: 480,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+      // You can unslick at a given breakpoint now by adding:
+      // settings: "unslick"
+      // instead of a settings object
+    ]
+  });
+  </script>
+</div>
   </main>
 <?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>

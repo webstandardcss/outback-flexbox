@@ -20,10 +20,18 @@ h1,h2,h3,h4,h5,h6,.impact {
   flex-flow: column wrap;
 }
 
+.flex-container-reverse {
+  flex-direction: column-reverse;
+}
+
 .flex-container-row {
   display: flex;
   justify-content: space-around;
   flex-flow: row wrap;
+}
+
+.flex-container-row-reverse {
+  flex-direction: row-reverse;
 }
 
 .block-container {
@@ -224,6 +232,35 @@ nav {
   right: 24px;
   top: 36px;
   font-size: 24px;
+}
+
+.ob-products > * {
+  max-width: 60vw;
+}
+
+.product > h2 {
+  flex: 4;
+}
+
+.product-description {
+  flex: 3;
+  margin: 0 24px;
+}
+
+.product-description > * {
+  text-align: left;
+}
+
+.product-media {
+  flex: 1;
+  justify-content: flex-end;
+  align-self: center;
+  margin: 0 24px;
+}
+
+.product-image {
+  text-align: right;
+  max-width: 30vw;
 }
 
 @media only screen and (max-width: 320px) {

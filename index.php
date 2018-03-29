@@ -9,6 +9,27 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 
 <?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
   <main class="ob-main flex-container">
+    <h1>Content Layout</h1>
+    <article class="ob-content">
+      <section class="ob-section">
+        <h2>Heading #</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+      </section>
+      <section class="ob-section">
+        <h2>Heading #</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+      </section>
+      <section class="ob-section">
+        <h2>Heading #</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde autem possimus magni mollitia saepe nemo tempore veniam eius facere, nostrum, minus officia reiciendis in minima beatae provident consectetur voluptate atque, odit sit nisi quas! Corrupti quos debitis aliquam facilis dolorum.</p>
+      </section>
+    </article>
     <h1>Product Layouts</h1>
     <div class="ob-products">
       <div class="product-large">

@@ -21,4 +21,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
       </div>
     </div>
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php 
+require_once(dirname(__FILE__) . "/inc/footer.php"); 
+
+?>

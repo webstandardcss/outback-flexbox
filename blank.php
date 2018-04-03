@@ -8,6 +8,11 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 ?>
 
 <?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+
+  <style>
+  /* CSS for this page only */
+  </style>
+
   <main class="ob-main flex-container">
     <h1>Water Stations</h1>
     <div class="product">
@@ -21,7 +26,9 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
       </div>
     </div>
   </main>
-<?php 
-require_once(dirname(__FILE__) . "/inc/footer.php"); 
 
-?>
+  <script type="text/javascript">
+  /* JS for this page only */
+  </script>
+
+<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>

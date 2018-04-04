@@ -263,13 +263,6 @@ nav {
   max-width: 30vw;
 }
 
-.product-small .product-single, .col3 {
-  max-width: 30%;
-}
-
-.product-half .product-single, .col2 {
-  max-width: 48%;
-}
 
 @media only screen and (max-width: 320px) {
   header {
@@ -291,6 +284,9 @@ nav {
       background-color: black;
       font-size: 100%;
     }
+    .product-small .product-single, .col3, .product-half .product-single, .col2 {
+      max-width: 48%;
+    }
   }
 
 
@@ -310,6 +306,13 @@ nav {
       height: 48px;
     }
 
+    .product-small .product-single, .col3 {
+      max-width: 30%;
+    }
+
+    .product-half .product-single, .col2 {
+      max-width: 48%;
+    }
 
 }
 

@@ -1,11 +1,11 @@
 <select id="menu-main-1" class="navselect">
   <option selected="selected" disabled="disabled">Menu</option>
   <option value="http://outbackfeeders.com/">Home</option>
-  <option value="http://outbackfeeders.com/outback-story-guarantee/">About Us
+  <option value="./outback-story-guarantee.php">About Us
   </option>
-  <option value="http://outbackfeeders.com/contact-us/">–&nbsp;Contact Us</option>
-  <option value="http://outbackfeeders.com/about-us/delivery-information/">–&nbsp;Delivery Information</option>
-  <option value="http://outbackfeeders.com/outback-story-guarantee/">–&nbsp;Outback Story &amp; Guarantee</option>
+  <option value="./contact-us.php">–&nbsp;Contact Us</option>
+  <option value="./delivery-information.php">–&nbsp;Delivery Information</option>
+  <option value="./outback-story-guarantee.php">–&nbsp;Outback Story &amp; Guarantee</option>
   <option value="http://outbackfeeders.com/why-you-should-buy-outback-feeders/">Why you should buy Outback Feeders</option>
   <option value="http://outbackfeeders.com/corn-feeders/">Corn Feeders
   </option>

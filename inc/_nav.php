@@ -2,11 +2,11 @@
   <ul id="menu-main" class="sf-menu sf-js-enabled">
     <li class="menu-home menu-home"><a href="http://outbackfeeders.com/">Home</a></li>
     <li class="menu-about-us sf-dropdown menu-about-us">
-      <a href="http://outbackfeeders.com/outback-story-guarantee/" class="sf-with-ul">About Us<span class="sf-sub-indicator"> »</span></a>
+      <a href="./outback-story-guarantee.php" class="sf-with-ul">About Us<span class="sf-sub-indicator"> »</span></a>
       <ul class="sf-dropdown-menu">
-        <li class="menu-contact-us menu-contact-us"><a href="http://outbackfeeders.com/contact-us/">Contact Us</a></li>
-        <li class="menu-delivery-information menu-delivery-information"><a href="http://outbackfeeders.com/about-us/delivery-information/">Delivery Information</a></li>
-        <li class="menu-outback-story-guarantee menu-outback-story-guarantee"><a href="http://outbackfeeders.com/outback-story-guarantee/">Outback Story &amp; Guarantee</a></li>
+        <li class="menu-contact-us menu-contact-us"><a href="./contact-us/">Contact Us</a></li>
+        <li class="menu-delivery-information menu-delivery-information"><a href="./about-us/delivery-information.php">Delivery Information</a></li>
+        <li class="menu-outback-story-guarantee menu-outback-story-guarantee"><a href="./outback-story-guarantee.php">Outback Story &amp; Guarantee</a></li>
       </ul>
     </li>
     <li class="menu-why-you-should-buy-outback-feeders menu-why-you-should-buy-outback-feeders"><a href="http://outbackfeeders.com/why-you-should-buy-outback-feeders/">Why you should buy Outback Feeders</a></li>
@@ -14,7 +14,7 @@
       <a href="http://outbackfeeders.com/corn-feeders/" class="sf-with-ul">Corn Feeders<span class="sf-sub-indicator"> »</span></a>
       <ul class="sf-dropdown-menu"">
         <li class="menu-baby-back-low-profile-feeders menu-baby-back-low-profile-feeders"><a href="http://outbackfeeders.com/baby-back-series/">BABY-BACK Low Profile Feeders</a></li>
-        <li class="menu-top-gun-corn-feeder menu-top-gun-corn-f\eeder"><a href="http://outbackfeeders.com/top-gun-corn-feeder/">Top Gun Corn Feeder</a></li>
+        <li class="menu-top-gun-corn-feeder menu-top-gun-corn-f\eeder"><a href="./top-gun-corn-feeder/">Top Gun Corn Feeder</a></li>
       </ul>
     </li>
     <li class="menu-protein-feeders sf-dropdown menu-protein-feeders">

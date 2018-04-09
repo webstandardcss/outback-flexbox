@@ -16,10 +16,13 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
         <p>Outback Wildlife Feeders has paired up with ADD-Vantage Delivery System to bring you “The Doc“.  A dual purpose 1000# protein feeder that not only allows you to use it as a normal gravity flow feeder, but “The Doc” also allows you to apply a liquid continuously and uniformly to a feed with a new state-of-the-art method at the rate of 20ml of liquid per 2.5 lbs. of feed on demand.</p>
         <p>1000# – $3650</p>
       </section>
-	<div class="product">
+	<div class="product-large">
       <div class="product-row flex-container">
+      	<div class="product-media">
         <img class="product-image" src="obf/products/doc-001-1024x682.jpg" alt="The Doc" />
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/yUAAoRjFS64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+        <iframe width="940" height="529" src="https://www.youtube.com/embed/yUAAoRjFS64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
         <div class="product-description">
           	
           	<p>Liquids that can be used in “The Doc“:

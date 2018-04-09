@@ -5,23 +5,23 @@
       <a href="./outback-story-guarantee.php" class="sf-with-ul">About Us<span class="sf-sub-indicator"> »</span></a>
       <ul class="sf-dropdown-menu">
         <li class="menu-contact-us menu-contact-us"><a href="./contact-us/">Contact Us</a></li>
-        <li class="menu-delivery-information menu-delivery-information"><a href="./about-us/delivery-information.php">Delivery Information</a></li>
+        <li class="menu-delivery-information menu-delivery-information"><a href=".//delivery-information.php">Delivery Information</a></li>
         <li class="menu-outback-story-guarantee menu-outback-story-guarantee"><a href="./outback-story-guarantee.php">Outback Story &amp; Guarantee</a></li>
       </ul>
     </li>
-    <li class="menu-why-you-should-buy-outback-feeders menu-why-you-should-buy-outback-feeders"><a href="http://outbackfeeders.com/why-you-should-buy-outback-feeders/">Why you should buy Outback Feeders</a></li>
+    <li class="menu-why-you-should-buy-outback-feeders menu-why-you-should-buy-outback-feeders"><a href="./why-you-should-buy-outback-feeders.php">Why you should buy Outback Feeders</a></li>
     <li class="menu-corn-feeders sf-dropdown menu-corn-feeders">
-      <a href="http://outbackfeeders.com/corn-feeders/" class="sf-with-ul">Corn Feeders<span class="sf-sub-indicator"> »</span></a>
+      <a href="./corn-feeders.php" class="sf-with-ul">Corn Feeders<span class="sf-sub-indicator"> »</span></a>
       <ul class="sf-dropdown-menu"">
-        <li class="menu-baby-back-low-profile-feeders menu-baby-back-low-profile-feeders"><a href="http://outbackfeeders.com/baby-back-series/">BABY-BACK Low Profile Feeders</a></li>
+        <li class="menu-baby-back-low-profile-feeders menu-baby-back-low-profile-feeders"><a href="./baby-back-feeder-series.php">BABY-BACK Low Profile Feeders</a></li>
         <li class="menu-top-gun-corn-feeder menu-top-gun-corn-f\eeder"><a href="./top-gun-corn-feeder/">Top Gun Corn Feeder</a></li>
       </ul>
     </li>
     <li class="menu-protein-feeders sf-dropdown menu-protein-feeders">
       <a href="http://outbackfeeders.com/protein-feeders/" class="sf-with-ul">Protein Feeders<span class="sf-sub-indicator"> »</span></a>
       <ul class="sf-dropdown-menu">
-        <li class="menu-half-back-protein-feeder menu-half-back-protein-feeder"><a href="http://outbackfeeders.com/half-back-protein/">Half-Back Protein Feeder</a></li>
-        <li class="menu-the-doc menu-the-doc"><a href="http://outbackfeeders.com/the-doc/">The Doc</a></li>
+        <li class="menu-half-back-protein-feeder menu-half-back-protein-feeder"><a href="./half-back-protein.php">Half-Back Protein Feeder</a></li>
+        <li class="menu-the-doc menu-the-doc"><a href="./the-doc.php">The Doc</a></li>
         <li class="menu-the-coontroller menu-the-coontroller"><a href="http://outbackfeeders.com/the-coontroller/">THE COONTROLLER</a></li>
       </ul>
     </li>

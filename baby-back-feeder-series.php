@@ -10,11 +10,14 @@ $pageKeywords = $pageTitle . "BABY-BACK Low Profile Feeders" . $siteKeywords;
 <?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
   <main class="ob-main flex-container">
     <h1>BABY-BACK Low Profile Feeders</h1>
-    <div class="product">
-      <div class="product-row flex-container">
-        <img class="product-image" src="obf/..." alt="" />
-        <div class="product-description">
-          <p>360° Corn Distribution with Eliminator</p>
+
+ <div class="product">
+        <div class="product-row flex-container-row">
+          <div class="product-media">
+            <img class="product-image" src="obf/products/IMG_5274-600x280.jpg" alt="baby-back" />
+          </div>
+          <div class="product-description">
+             <p>360° Corn Distribution with Eliminator</p>
 
           <p>36″ high, 400# – $1400</p>
           <p>42″ high, 600# – $1450</p>
@@ -27,10 +30,21 @@ $pageKeywords = $pageTitle . "BABY-BACK Low Profile Feeders" . $siteKeywords;
           <p>42″ high, 1000# – $1825</p>
 
           <p>Bear Cage $100.00</p>
+          </div>
         </div>
       </div>
-    </div>
-    <img class"" src="obf/..." alt="Eliminator" />
-    <img class"" src="obf/..." alt="Profile" />
+
+    <div class="product-row flex-container-row">
+          <div class="product-single">
+            <div class="product-media">
+               <img class"" src="obf/products/IMG_5284-with-eliminator-300X322.png" alt="Eliminator" />
+            </div>
+          </div>
+          <div class="product-single">
+            <div class="product-media">
+              <img class"" src="obf/products/IMG_5276-distribution-with-pitsolero-239x300.png" alt="Profile" />
+            </div>
+          </div>
+        </div>
   </main>
 <?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>

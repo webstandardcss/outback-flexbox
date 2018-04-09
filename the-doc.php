@@ -18,7 +18,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
       </section>
 	<div class="product">
       <div class="product-row flex-container">
-        <img class="product-image" src="obf/..." alt="" />
+        <img class="product-image" src="obf/products/doc-001-1024x682.jpg" alt="The Doc" />
         <iframe width="560" height="315" src="https://www.youtube.com/embed/yUAAoRjFS64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         <div class="product-description">
           	

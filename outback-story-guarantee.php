@@ -16,7 +16,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 	<p>All Outback products are innovatively designed and built at the original location in Gilmer, Texas. Made with only high quality American steel and craftsmanship, all products are 100% Satisfaction Guaranteed.</p>
     <div class="product">
       <div class="product-row flex-container">
-        <img class="product-image" src="obf/...." alt="Rick Merit with deer" />
+        <img class="product-image" src="obf/Hunting Photos/new14-141.jpg" alt="Rick Merit with deer" />
         <div class="product-description">
         </div>
       </div>
@@ -24,12 +24,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
     <h1>Lifetime Warranty</h1>
 	<p>10 year manufacturing defect. We will personally repair, replace or hire a competent repair team to come to your location. After 10 years we will repair at our location in Gilmer Texas. 100% Satisfaction</p>
 	<p>Numerous patents are held by Outback and include: 8201520, 7370605, 6920841, D575908, D599503, D602649, D603104, D603105, D604017, D603566, D624706, D624708, D622453, D624707, D636942, D629572, D629976, D629975, D624709, D630802, D630653, D647253, D642750, D681883. Additional patents are pending. U.S. trademarks included 3629190 & 3625066.</p>
-	<div class="product">
-      <div class="product-row flex-container">
-        <img class="product-image" src="obf/...." alt="Sunset at the Merit ranch" />
-        <div class="product-description">
-        </div>
-      </div>
+	<img class="product-image" src="obf/Misc/OB-entrance-at-sunset_20140918-1024x768.jpg" alt="Sunset at the Merit ranch" />
     </div>
   </main>
 <?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>

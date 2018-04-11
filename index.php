@@ -139,6 +139,8 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
           </div>
         </div>
       </div>
+    
+
       <div class="product-half">
         <h2>Two Column Row</h2>
         <div class="product-row flex-container-row">

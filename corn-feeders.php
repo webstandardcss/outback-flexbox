@@ -12,22 +12,30 @@ $pageKeywords = $pageTitle . "Corn Feeder Pistolero Bear Cage" . $siteKeywords;
     <h1>Corn Feeders</h1>
     
 	<div class="product">
-      <div class="product-row flex-container">
-        <img class="product-image" src="obf/..." alt="CF Corn Feeder" />
+      <div class="product-row flex-container-row">
+        <div class="product-media">
+        <img class="product-image" src="obf/products/4-CF-+-Rick-scene-370x3701-300x300.jpg" alt="CF Corn Feeder" />
+      </div>
         <div class="product-description">
           <h3>CF CORN FEEDER</h3>
           <p>Features THE TIMER 12-Volt Control Unit with 5 year warranty</p>
 
-          <p>600# – $2050</p>
-          <p>1000# – $2150</p>
-          <p>2000# – $2250</p>
-          <p>3000# – $2500</p>
+          <p>600# – $2050<br>
+          1000# – $2150<br>
+          2000# – $2250<br>
+          3000# – $2500</p>
         </div>
       </div>
     </div>
+    
+    <br>
+    <br>
+
     <div class="product">
-      <div class="product-row flex-container">
-        <img class="product-image" src="obf/..." alt="Options for Corn Feeders" />
+      <div class="product-row flex-container-row">
+        <div class="product-media">
+        <img class="product-image" src="obf/products/IMG_0883-300x289.jpg" alt="Options for Corn Feeders" />
+        </div>
         <div class="product-description">
           <h3>Options for Corn Feeders</h3>
           <p>Extended 4-Tube Protein Adapter – $500</p>
@@ -39,9 +47,15 @@ $pageKeywords = $pageTitle . "Corn Feeder Pistolero Bear Cage" . $siteKeywords;
         </div>
       </div>
     </div>
+
+    <br>
+    <br>
+     
      <div class="product">
-      <div class="product-row flex-container">
-        <img class="product-image" src="obf/..." alt="Tall Pistolero" />
+      <div class="product-row flex-container-row">
+        <div class="product-media">
+        <img class="product-image" src="obf/products/tall-corn+pistolero-246x300.jpg" alt="Tall Pistolero" />
+        </div>
         <div class="product-description">
           <h3>Tall Pistolero</h3>
           <p>600# – $2150</p>

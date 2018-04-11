@@ -9,20 +9,31 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 
 <?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
   <main class="ob-main flex-container">
-    <h1>Welcome to Outback!</h1>
-    <p>It all began in 1981 with Rick Meritt building custom steel fences and buildings as 3-M Steel Construction. Named 3-M (three Meritts) to include his wife and son.</p>
-	<p>As he built all over Texas, Rick developed products that better suited his first love – Hunting. Hence, Outback Wildlife Feeders was created and began with a single deer feeder. The product line has expanded to include about four dozen hunting, fishing and ranch equipment items.</p>
-	<p>Outback products are “Built Right the First Time, to Last a Lifetime”, withstanding extreme weather, wind and wildlife abuse.</p>
-	<p>All Outback products are innovatively designed and built at the original location in Gilmer, Texas. Made with only high quality American steel and craftsmanship, all products are 100% Satisfaction Guaranteed.</p>
-	<div class="product">
-      <div class="product-row flex-container">
-        <img class="product-image" src="obf/..." alt="" />
-        <div class="product-description">
-          <h3></h3>
-          <p></p>
+    <h1>Half-Back Protein Feeder</h1>
+
+    <div class="product">
+        <div class="product-row flex-container-row">
+          <div class="product-media">
+            <img class="product-image" src="obf/products/IMG_5872-e1516310969980-600x280.png" alt="Half-back protein feeder" />
+          </div>
+          <div class="product-description">
+            <p>700# – $1900</p>
+            <p>Comes with 4 baffled feed tubes</p>
+            <br>
+            <br>
+            <br>
+            <p>1000# – $2200</p>
+            <p>Comes with 6 baffled feed tubes</p>
+          </div>
+
+       <article class="ob-content">
+          <section class="ob-section">
+            <p>The All New Half-Back low profile protein feeder. This new low profile protein feeder stands only 65″ tall at the lid and comes in two different capacities: The Half-Back comes with a super large 24″ x 24″ lid for easy filling. The Half-Back feeder is built just like all the other Outback Wildlife Feeders – 100% All Steel Construction for a lifetime of use!</p>
+            <p>(Disclaimer) Due to the nature of a low profile, gravity flow feeder, there may be some feed that will remain in the hopper after the feed tubes are empty.</p>
+          </section>
+        </article>
         </div>
       </div>
-    </div>
-    
+   	    
   </main>
 <?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>

@@ -19,20 +19,22 @@ $pageKeywords = $pageTitle . "BABY-BACK Low Profile Feeders" . $siteKeywords;
           <div class="product-description">
              <p>360° Corn Distribution with Eliminator</p>
 
-          <p>36″ high, 400# – $1400</p>
-          <p>42″ high, 600# – $1450</p>
-          <p>42″ high, 1000# – $1625</p>
+          <p>36″ high, 400# – $1400<br>
+          42″ high, 600# – $1450<br>
+          42″ high, 1000# – $1625</p>
 
           <p>Distribution up to 50′ in one direction with Pistolero Directional Unit</p>
 
-          <p>36″ high, 400# – $1600</p>
-          <p>42″ high, 600# – $1650</p>
-          <p>42″ high, 1000# – $1825</p>
+          <p>36″ high, 400# – $1600<br>
+          42″ high, 600# – $1650<br>
+          42″ high, 1000# – $1825</p>
 
           <p>Bear Cage $100.00</p>
           </div>
         </div>
       </div>
+
+      <br>
 
     <div class="product-row flex-container-row">
           <div class="product-single">

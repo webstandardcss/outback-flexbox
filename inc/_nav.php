@@ -4,7 +4,7 @@
     <li class="menu-about-us sf-dropdown menu-about-us">
       <a href="./outback-story-guarantee.php" class="sf-with-ul">About Us<span class="sf-sub-indicator"> »</span></a>
       <ul class="sf-dropdown-menu">
-        <li class="menu-contact-us menu-contact-us"><a href="./contact-us/">Contact Us</a></li>
+        <li class="menu-contact-us menu-contact-us"><a href="./contact-us.php">Contact Us</a></li>
         <li class="menu-delivery-information menu-delivery-information"><a href="./delivery-information.php">Delivery Information</a></li>
         <li class="menu-outback-story-guarantee menu-outback-story-guarantee"><a href="./outback-story-guarantee.php">Outback Story &amp; Guarantee</a></li>
       </ul>

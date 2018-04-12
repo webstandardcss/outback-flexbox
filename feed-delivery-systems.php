@@ -25,29 +25,43 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 <br>
 <br>
 <br>
-    <div class="product-half">
-      <div class="product-row flex-container-row">
-         <div class="product-single">
-            <div class="product-media">
-              <img class="product-image" src="obf/products/The-PUP_20140917-1024x768.jpg" alt="The PUP" />
-            </div>
-            <div class="product-description">
-              <h2>THE PUP ROAD FEEDER</h2>
+
+<div class="product">
+     <div class="product-row flex-container-row">
+          <div class="product-media">
+            <img class="product-image" src="obf/products/The-PUP_20140917-300x225.jpg" alt="The PUP" />
+          </div>
+          <div class="product-description">
+           <h2>THE PUP ROAD FEEDER</h2>
               <p>Equipped with remote control “Eliminator” road feeder and easily tows with ATV.</p>
 
               <p>• 600 Lb. Capacity – $2425</p>
-            </div>
           </div>
-          <div class="product-single">
+        </div>
+      </div>
+
+<br>
+<br>
+<br>
+        <div class="product">
+    	 <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="obf/products/float-tires-on-Pardner-4M-784x1024.png" alt="Floatation Tires" />
+              <img class="product-image" src="obf/products/roadbitch-300x225.jpg" alt="The Road Feeder The Outback Road Feeder" />
             </div>
             <div class="product-description">
-              <h2>FLOATATION TIRES ON YOUR FEED DELIVERY TRAILER</h2>
-              <p>• Per Axle – $700</p>
+              <h2>THE ROAD FEEDER</h2>
+              <p>The Outback Road Feeder comes in a 100 or 200 lb. capacity hopper with wired remote for use from inside your vehicle. Built with the best high quality materials and craftsmanship.</p>
+
+			<p>100# – $500</p>
+
+			<p>200# – $550</p>
             </div>
           </div>
         </div>
       </div>
+<br>
+<br>
+<br>
+      
   </main>
 <?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>

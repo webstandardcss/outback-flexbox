@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "Corn Feeders";
@@ -7,7 +7,7 @@ $pageDescription = $siteName  . "Corn Feeders" . $pageTitle;
 $pageKeywords = $pageTitle . "Corn Feeder Pistolero Bear Cage" . $siteKeywords;
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
     <h1>Corn Feeders</h1>
     
@@ -67,4 +67,4 @@ $pageKeywords = $pageTitle . "Corn Feeder Pistolero Bear Cage" . $siteKeywords;
     </div>
     <h2>When pulling or moving feeders use extreme caution. Feeders can be top heavy. Also never pull when feeders are full.</h2>
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

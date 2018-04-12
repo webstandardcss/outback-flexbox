@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "BABY-BACK Low Profile Feeders";
@@ -7,7 +7,7 @@ $pageDescription = $siteName  . "Baby-Back Feeder Series" . $pageTitle;
 $pageKeywords = $pageTitle . "BABY-BACK Low Profile Feeders" . $siteKeywords;
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
     <h1>BABY-BACK Low Profile Feeders</h1>
 
@@ -49,4 +49,4 @@ $pageKeywords = $pageTitle . "BABY-BACK Low Profile Feeders" . $siteKeywords;
           </div>
         </div>
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

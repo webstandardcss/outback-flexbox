@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "Delivery Information";
@@ -7,7 +7,7 @@ $pageDescription = $siteName  . "Delivery Information - Transport/Shipping cost"
 $pageKeywords = $pageTitle . "Wildife Feeders Delivery Shipping Cost" . $siteKeywords;
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
     <h1>Delivery Information</h1>
 	<h2>Transport/ Shipping Cost</h2>
@@ -120,4 +120,4 @@ $pageKeywords = $pageTitle . "Wildife Feeders Delivery Shipping Cost" . $siteKey
     </div>
     
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

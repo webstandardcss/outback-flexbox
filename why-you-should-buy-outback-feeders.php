@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "Why you should buy Outback Feeders";
@@ -7,7 +7,7 @@ $pageDescription = $siteName  . "Why you should buy Outback Feeders" . $pageTitl
 $pageKeywords = $pageTitle . "Buy Outback Feeders cost durability service" . $siteKeywords;
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
     <h1>Why you should choose Outback Wildlife Feeders</h1>
 
@@ -27,4 +27,4 @@ $pageKeywords = $pageTitle . "Buy Outback Feeders cost durability service" . $si
 
 	<p>We hope you consider these four components when purchasing your next wildlife feeder. We have built our company on integrity and honesty we focus on building the best wildlife feeder the world has ever seen.</p> 
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

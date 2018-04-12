@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "Protein Feeders";
@@ -7,7 +7,7 @@ $pageDescription = $siteName  . "Outback Feeders Protein Feeders and options" . 
 $pageKeywords = $pageTitle . "Protein Feeders gravity flow regulator" . $siteKeywords;
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
     <h1>Protein Feeders </h1>
 
@@ -206,4 +206,4 @@ $pageKeywords = $pageTitle . "Protein Feeders gravity flow regulator" . $siteKey
     </div>
 </div>
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

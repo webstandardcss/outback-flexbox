@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "Top Gun Corn Feeder";
@@ -7,7 +7,7 @@ $pageDescription = $siteName  . "Top Gun Corn Feeder" . $pageTitle;
 $pageKeywords = $pageTitle . "Top Gun Corn Feeder Pistolero Directional Eliminator" . $siteKeywords;
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
     <h1>Top Gun Corn Feeder</h1>
     
@@ -54,4 +54,4 @@ $pageKeywords = $pageTitle . "Top Gun Corn Feeder Pistolero Directional Eliminat
     </div>
   </div>
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

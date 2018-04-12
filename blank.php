@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "";
@@ -7,7 +7,7 @@ $pageDescription = $siteName  . "" . $pageTitle;
 $pageKeywords = $pageTitle . "" . $siteKeywords;
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
     <h1>Welcome to Outback!</h1>
     <p>It all began in 1981 with Rick Meritt building custom steel fences and buildings as 3-M Steel Construction. Named 3-M (three Meritts) to include his wife and son.</p>
@@ -25,4 +25,4 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
     </div>
     
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

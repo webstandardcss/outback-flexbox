@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "Homepage";
@@ -7,7 +7,7 @@ $pageDescription = $siteName  . " " . $pageTitle;
 $pageKeywords = $pageTitle . "" . $siteKeywords;
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
     <h1>Content Layout</h1>
     <article class="ob-content">
@@ -260,4 +260,4 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
       </script>
     </div>
   </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

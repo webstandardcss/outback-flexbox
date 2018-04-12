@@ -1,4 +1,4 @@
-<?php require_once(dirname(__FILE__) . "/inc/config.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
 $pageTitle = "Contact Us";
@@ -8,7 +8,7 @@ $pageKeywords = $pageTitle . "Contact Outback Feeders" . $siteKeywords;
 $extraCss = array("forms")
 ?>
 
-<?php require_once(dirname(__FILE__) . "/inc/header.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
 <main class="ob-main flex-container">
   <h1>Contact Us</h1>
   <div class="main span8" role="main">
@@ -27,7 +27,7 @@ $extraCss = array("forms")
                 <span class="gfield_required">*</span>
               </label>
               <div class="ginput_container ginput_container_text">
-                <input name="input_1" id="input_1_1" type="text" value="" class="medium" tabindex="1" aria-required="true"
+                <input placeholder="First Name" name="input_1" id="input_1_1" type="text" value="" class="medium" tabindex="1" aria-required="true"
                   aria-invalid="false">
               </div>
             </li>
@@ -36,7 +36,7 @@ $extraCss = array("forms")
                 <span class="gfield_required">*</span>
               </label>
               <div class="ginput_container ginput_container_text">
-                <input name="input_2" id="input_1_2" type="text" value="" class="medium" tabindex="2" aria-required="true"
+                <input placeholder="Last Name" name="input_2" id="input_1_2" type="text" value="" class="medium" tabindex="2" aria-required="true"
                   aria-invalid="false">
               </div>
             </li>
@@ -45,19 +45,19 @@ $extraCss = array("forms")
                 <span class="gfield_required">*</span>
               </label>
               <div class="ginput_container ginput_container_email">
-                <input name="input_3" id="input_1_3" type="text" value="" class="medium" tabindex="3" aria-required="true" aria-invalid="false">
+                <input placeholder="Email" name="input_3" id="input_1_3" type="text" value="" class="medium" tabindex="3" aria-required="true" aria-invalid="false">
               </div>
             </li>
             <li id="field_1_4" class="gfield field_sublabel_below field_description_below gfield_visibility_visible">
               <label class="gfield_label" for="input_1_4">Phone</label>
               <div class="ginput_container ginput_container_phone">
-                <input name="input_4" id="input_1_4" type="text" value="" class="medium" tabindex="4" aria-invalid="false">
+                <input placeholder="Phone" name="input_4" id="input_1_4" type="text" value="" class="medium" tabindex="4" aria-invalid="false">
               </div>
             </li>
             <li id="field_1_5" class="gfield field_sublabel_below field_description_below gfield_visibility_visible">
-              <label class="gfield_label" for="input_1_5">Message/Comments</label>
+              <label class="gfield_label" for="input_1_5">Message / Comments</label>
               <div class="ginput_container ginput_container_textarea">
-                <textarea name="input_5" id="input_1_5" class="textarea medium" tabindex="5" aria-invalid="false" rows="10"
+                <textarea placeholder="Message / Comments" name="input_5" id="input_1_5" class="textarea medium" tabindex="5" aria-invalid="false" rows="10"
                   cols="50"></textarea>
               </div>
             </li>
@@ -84,12 +84,13 @@ $extraCss = array("forms")
         </div>
       </form>
     </div>
-    903.734.6774 Shop&nbsp; &nbsp;903.734.4210 Office&nbsp;&nbsp;&nbsp; 5197 FM 2685 – Gilmer TX 75645&nbsp;
-    Email
-    <a href="mailto:outbackwildlifefeeders@yahoo.com">rickmeritt@yahoo.com</a>
+    <h2>
+      903.734.6774 Shop&nbsp; &nbsp;903.734.4210 Office&nbsp;&nbsp;&nbsp; 5197 FM 2685 &ndash; Gilmer TX 75645&nbsp;
+      Email <a href="mailto:outbackwildlifefeeders@yahoo.com">rickmeritt@yahoo.com</a>
+    </h2>
     <p></p>
     <p>&nbsp;</p>
   </div>
 
 </main>
-<?php require_once(dirname(__FILE__) . "/inc/footer.php"); ?>
+<?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

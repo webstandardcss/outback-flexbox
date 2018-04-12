@@ -2,3 +2,149 @@ input,
 select {
     height: 2em;
 }
+
+.gfield_label {
+    display: none;
+}
+
+.gform_footer.top_label {
+    margin: 0 auto;
+    float: none;
+}
+
+main li {
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    vertical-align: top;
+    width: 46%;
+}
+
+li.dealer-field-right {
+    margin-right: 0;
+}
+
+input,
+select,
+textarea {
+    background: #fff;
+    border: medium none;
+    border-radius: 3px;
+    width: 100%;
+    margin: 0;
+}
+
+input {
+    padding: 0px 10px 0;
+}
+
+select {
+    padding: 0px 10px 0;
+}
+
+textarea {
+    padding: 10px 10px 0;
+}
+
+textarea {
+    height: 180px;
+}
+
+.message-text {
+    width: 100%;
+}
+
+.gform_wrapper {
+    margin: 30px 0 0;
+}
+
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+    color: #444;
+    opacity: 1;
+}
+
+select {
+    color: #444;
+    opacity: 1;
+}
+
+option {
+    color: #444;
+    opacity: 1;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: #444;
+    opacity: 1;
+}
+
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+    color: #444;
+    opacity: 1;
+}
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+    color: #444;
+    opacity: 1;
+}
+
+.gfield_description {
+    display: inline-block;
+    margin: 0;
+    max-width: inherit;
+    padding: 0;
+    position: absolute;
+    right: 20px;
+    top: 12px;
+    width: auto;
+}
+
+.gform_validation_error input {
+    border: none;
+}
+
+.ginput_container {
+    margin: 0;
+    max-width: 100%;
+    width: 100%;
+}
+
+.menu-become-a-dealer a {
+    background: #008191;
+}
+
+@media (min-width:768px) and (max-width:1023px) {
+    .gfield_description {
+        top: auto;
+        bottom: -2px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width:639px) {
+    main li {
+        width: 80%;
+        margin-right: 24px;
+        margin-bottom: 5%;
+    }
+    textarea {
+        padding-left: 15px;
+    }
+    .gfield_description {
+        top: auto;
+        bottom: -2px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width:479px) {
+    .gfield_description {
+        top: auto;
+        bottom: -2px;
+    }
+}

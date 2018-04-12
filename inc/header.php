@@ -20,6 +20,9 @@
   <link rel="stylesheet" href="assets/css/normalize.css">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="custom.css">
+  <?php if (in_array("forms", $extraCss)) { ?>
+    <link rel="stylesheet" href="assets/css/forms.css">
+  <?php } ?>
 </head>
 <body class="flex-container">
   <div id="topbar-search" class="topbar-widget flex-container-row">

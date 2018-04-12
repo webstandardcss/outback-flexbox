@@ -1,3 +1,7 @@
+form {
+    margin-bottom: 24px;
+}
+
 input,
 select {
     height: 2em;
@@ -25,29 +29,31 @@ li.dealer-field-right {
     margin-right: 0;
 }
 
-input,
-select,
-textarea {
+main input,
+main select,
+main textarea {
     background: #fff;
     border: medium none;
     border-radius: 3px;
-    width: 100%;
+    width: 80%;
     margin: 0;
 }
 
-input {
+main input {
     padding: 0px 10px 0;
 }
 
-select {
+main select {
     padding: 0px 10px 0;
+    width: 86%
 }
 
-textarea {
+main textarea {
     padding: 10px 10px 0;
+    width: 86%
 }
 
-textarea {
+main textarea {
     height: 180px;
 }
 
@@ -65,12 +71,12 @@ textarea::-moz-placeholder {
     opacity: 1;
 }
 
-select {
+main select {
     color: #444;
     opacity: 1;
 }
 
-option {
+main option {
     color: #444;
     opacity: 1;
 }
@@ -108,6 +114,11 @@ textarea:-ms-input-placeholder {
     border: none;
 }
 
+.gform_button {
+    margin: 24px 3%;
+    width: 86%;
+}
+
 .ginput_container {
     margin: 0;
     max-width: 100%;
@@ -132,7 +143,7 @@ textarea:-ms-input-placeholder {
         margin-right: 24px;
         margin-bottom: 5%;
     }
-    textarea {
+    main textarea {
         padding-left: 15px;
     }
     .gfield_description {

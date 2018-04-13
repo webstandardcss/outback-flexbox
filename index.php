@@ -16,6 +16,19 @@ iframe {
   width: 80%;
   height: 40%;
 }
+.slider-home, .slider-home h1 {
+  color: #B3D8DD;
+}
+.slider-home {
+  font-size: 18px;
+}
+.slick {display: block;}
+.slick-image {display: inline-block;}
+.slider-home > div,
+.slider-home img {
+  height: 212px;
+}
+
 </style>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
@@ -96,28 +109,116 @@ iframe {
     <div class="slick-outer block-container-centered ob-carousel">
       <!-- Start Carousel  -->
       <div class="slick slider-home">
-      <div class="product">
-        <div class="product-row flex-container-row">
-          <div class="product-media">
-            <img class="product-image" src="/assets/images/slider/home/Gril_page-1024x896-0x200.jpg" alt="La Bandera" />
-          </div>
-          <div class="product-description">
-            <h1>GRILLS & FIRE PITS</h1>
-            <p>Includes fire poker – $525 30” JUNIOR FIRE PIT (LEFT) Includes swivel grill, Dutch oven support, fire poker & ash pan – $925 36-40” TEXAS SIZE FIRE PIT (RIGHT) Features swivel grill, Dutch oven support, fire poker & ash pan – $1125</p>
-          </div>
-        </div>
-      </div>
-      <div class="product">
-        <div class="product-row flex-container-row">
-          <div class="product-media">
-            <img class="product-image" src="/assets/images/slider/home/Gril_page-1024x896-0x200.jpg" alt="La Bandera" />
-          </div>
-          <div class="product-description">
-            <h1>GRILLS & FIRE PITS</h1>
-            <p>Includes fire poker – $525 30” JUNIOR FIRE PIT (LEFT) Includes swivel grill, Dutch oven support, fire poker & ash pan – $925 36-40” TEXAS SIZE FIRE PIT (RIGHT) Features swivel grill, Dutch oven support, fire poker & ash pan – $1125</p>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/Gril_page-1024x896-0x200.jpg" alt="GRILLS & FIRE PITS" />
+            </div>
+            <div class="product-description">
+              <h1>GRILLS & FIRE PITS</h1>
+              <p>Includes fire poker – $525 30” JUNIOR FIRE PIT (LEFT) Includes swivel grill, Dutch oven support, fire poker & ash pan – $925 36-40” TEXAS SIZE FIRE PIT (RIGHT) Features swivel grill, Dutch oven support, fire poker & ash pan – $1125</p>
+            </div>
           </div>
         </div>
-      </div>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/shooting-bench-1024x1024-0x200.png" alt="SHOOTING BENCH" />
+            </div>
+            <div class="product-description">
+              <h1>SHOOTING BENCH</h1>
+              <p>Portable with swivel seat. Shown with MB Ranch King’s shooting system (not included). $500</p>
+            </div>
+          </div>
+        </div>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/1EZ-Clean-Cart-w-deer-005-300x225-0x200.jpg" alt="E-Z CLEAN CART" />
+            </div>
+            <div class="product-description">
+              <h1>E-Z CLEAN CART</h1>
+              <p>Cleaning a deer doesn’t have to be a back-breaking job! $500</p>
+            </div>
+          </div>
+        </div>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/posing-cartRGBcropped_20141009-1024x708-0x200.jpg" alt="POSING CART" />
+            </div>
+            <div class="product-description">
+              <h1>POSING CART</h1>
+              <p>Preserves your trophy for the perfect photo $500</p>
+            </div>
+          </div>
+        </div>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/Caping-Table-Rick-bkgd-867x1024-0x200.png" alt="CAPING CART" />
+            </div>
+            <div class="product-description">
+              <h1>CAPING CART</h1>
+              <p>Makes caping an easier one-man job $500</p>
+            </div>
+          </div>
+        </div>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/All_grtballoffire_20140929-1024x512-0x200.png" alt="GREAT BALL OF FIRE WILDLIFE SCENE EMBELLISHED FIRE PIT" />
+            </div>
+            <div class="product-description">
+              <h1>GREAT BALL OF FIRE WILDLIFE SCENE EMBELLISHED FIRE PIT</h1>
+              <p>No two alike, each one a work of art! 1400 degree high-temperature powder-coat finish. Fire poker & ash can included. $2150</p>
+            </div>
+          </div>
+        </div>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/Game-Rack-758x1024-0x200.png" alt="GAME RACK" />
+            </div>
+            <div class="product-description">
+              <h1>GAME RACK</h1>
+              <p>Portable with quartz lighting & 4 winches (800 Lb. Capacity each) $1000</p>
+            </div>
+          </div>
+        </div>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/MICROWAVE-GRILL_09232013-1024x819-0x200.png" alt="MICRO-WAVE GRILL" />
+            </div>
+            <div class="product-description">
+              <h1>MICRO-WAVE GRILL</h1>
+              <p>Faster & hotter, with adjustable heat, thermometer included. Built to cook reliably for decades. $1125</p>
+            </div>
+          </div>
+        </div>
+        <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/EZ-lift-on-truck-639x10241-0x200.png" alt="E-Z LIFT LOADER" />
+            </div>
+            <div class="product-description">
+              <h1>E-Z LIFT LOADER</h1>
+              <p>Locking swivel design allows easy loading of animal from ground or vehicle. Faatures heavy-duty brake. $375</p>
+            </div>
+          </div>
+        </div>
+        <!-- <div class="product">
+          <div class="product-row flex-container-row">
+            <div class="product-media">
+              <img class="product-image" src="/assets/images/slider/home/" alt="" />
+            </div>
+            <div class="product-description">
+              <h1></h1>
+              <p></p>
+            </div>
+          </div>
+        </div> -->
       </div>
       <script type="text/javascript">
       $('.slider-home').slick({

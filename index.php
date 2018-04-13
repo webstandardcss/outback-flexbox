@@ -8,15 +8,25 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
 $extraCss = array("forms");
 ?>
 
+<style>
+iframe {
+  margin: 0 auto;
+  position: relative;
+  right: 5%;
+  width: 80%;
+  height: 40%;
+}
+</style>
+
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
-    <h1>Welcome to Outback!</h1>
-    <p>It all began in 1981 with Rick Meritt building custom steel fences and buildings as 3-M Steel Construction. Named 3-M (three Meritts) to include his wife and son.</p>
-    <p>As he built all over Texas, Rick developed products that better suited his first love – Hunting. Hence, Outback Wildlife Feeders was created and began with a single deer feeder. The product line has expanded to include about four dozen hunting, fishing and ranch equipment items.</p>
-    <p>Outback products are “Built Right the First Time, to Last a Lifetime”, withstanding extreme weather, wind and wildlife abuse.</p>
-    <p>All Outback products are innovatively designed and built at the original location in Gilmer, Texas. Made with only high quality American steel and craftsmanship, all products are 100% Satisfaction Guaranteed.</p>
+    <h1>Welcome to Outback Feeders!</h1>
+    <iframe src="https://www.youtube.com/embed/yIDBzfALRYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+    
     <div class="form dealer-form">
-      <h2>Apply to Become a Dealer Today</h2>
+    <!-- Start of the form -->
+      <h2>Get In Touch</h2>
 
       <div class="gform_wrapper" id="gform_wrapper_4">
         <form method="post" enctype="multipart/form-data" id="gform_4" action="">
@@ -26,12 +36,6 @@ $extraCss = array("forms");
                 <label class="gfield_label" for="input_4_1">Name<span class="gfield_required">*</span></label>
                 <div class="ginput_container ginput_container_text">
                   <input name="input_1" id="input_4_1" type="text" value="" class="medium" tabindex="1" placeholder="Name" aria-required="true" aria-invalid="false">
-                </div>
-              </li>
-              <li id="field_4_5" class="gfield dealer-field-right field_sublabel_below field_description_below gfield_visibility_visible">
-                <label class="gfield_label" for="input_4_5">Company Name</label>
-                <div class="ginput_container ginput_container_text">
-                  <input name="input_5" id="input_4_5" type="text" value="" class="medium" tabindex="2" placeholder="Company Name" aria-invalid="false">
                 </div>
               </li>
               <li id="field_4_3" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible">
@@ -47,9 +51,9 @@ $extraCss = array("forms");
                 </div>
               </li>
               <li id="field_4_6" class="gfield field_sublabel_below field_description_below gfield_visibility_visible">
-                <label class="gfield_label" for="input_4_6">Location</label>
+                <label class="gfield_label" for="input_4_6">Your Zipcode</label>
                 <div class="ginput_container ginput_container_text">
-                  <input name="input_6" id="input_4_6" type="text" value="" class="medium" tabindex="5" placeholder="Location" aria-invalid="false">
+                  <input name="input_6" id="input_4_6" type="text" value="" class="medium" tabindex="5" placeholder="Your Zipcode" aria-invalid="false">
                 </div>
               </li>
               <li id="field_4_4" class="gfield dealer-field-right gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible">
@@ -85,7 +89,67 @@ $extraCss = array("forms");
           <p></p>
         </div>
       </div>
+      <!-- End of the form  -->
     </div>
+
+
+    <div class="slick-outer block-container-centered ob-carousel">
+      <!-- Start Carousel  -->
+      <div class="slick slider-home">
+        <div><span>Image 0</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 1</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 2</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 3</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 4</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 5</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 6</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 7</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 8</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+        <div><span>Image 9</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+      </div>
+      <script type="text/javascript">
+      $('.slider-home').slick({
+        dots: true,
+        infinite: false,
+        speed: 300,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        responsive: [
+          {
+            breakpoint: 1024,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1,
+              infinite: true,
+              dots: true
+            }
+          },
+          {
+            breakpoint: 600,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1,
+              dots: false
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+          // You can unslick at a given breakpoint now by adding:
+          // settings: "unslick"
+          // instead of a settings object
+        ]
+      });
+      </script>
+      <!-- End Carousel -->
+    </div>
+
+
+
     
   </main>
 <?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

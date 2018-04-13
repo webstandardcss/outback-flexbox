@@ -39,7 +39,7 @@ iframe {
     
     <div class="form dealer-form">
     <!-- Start of the form -->
-      <h2>Get In Touch</h2>
+      <h1>Get In Touch</h1>
 
       <div class="gform_wrapper" id="gform_wrapper_4">
         <form method="post" enctype="multipart/form-data" id="gform_4" action="">

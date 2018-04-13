@@ -20,7 +20,7 @@ main li {
     display: inline-block;
     vertical-align: top;
     margin-bottom: 2%;
-    margin-right: 2%;
+    /* margin-right: 2%; */
     vertical-align: top;
     width: 46%;
 }
@@ -45,12 +45,12 @@ main input {
 
 main select {
     padding: 0px 10px 0;
-    width: 86%
+    width: 80%
 }
 
 main textarea {
     padding: 10px 10px 0;
-    width: 86%
+    width: 84%
 }
 
 main textarea {
@@ -115,8 +115,16 @@ textarea:-ms-input-placeholder {
 }
 
 .gform_button {
-    margin: 24px 3%;
-    width: 86%;
+    /* margin: 24px 3%; */
+    width: 100%;
+    min-height: 3.4em;
+    height: .4em;
+    background-color: #ffc905;
+}
+
+.gform_button:hover {
+    background-color: #222;
+    color: #ddd;
 }
 
 .ginput_container {
@@ -158,4 +166,9 @@ textarea:-ms-input-placeholder {
         top: auto;
         bottom: -2px;
     }
+}
+
+
+}
+
 }

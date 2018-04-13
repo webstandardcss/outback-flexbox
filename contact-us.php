@@ -5,7 +5,7 @@ $pageTitle = "Contact Us";
 $pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
 $pageDescription = $siteName . "Contact Outback Feeders" . $pageTitle;
 $pageKeywords = $pageTitle . "Contact Outback Feeders" . $siteKeywords;
-$extraCss = array("forms")
+$extraCss = array("forms");
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

@@ -46,6 +46,8 @@ h1,h2,h3,h4,h5,h6,.impact {
 .ob-carousel {
   width: 70%;
   max-width: 70vw;
+  margin-top: -66px;
+  margin-bottom: 46px;
 }
 
 header {

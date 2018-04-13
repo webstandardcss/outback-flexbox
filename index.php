@@ -96,16 +96,28 @@ iframe {
     <div class="slick-outer block-container-centered ob-carousel">
       <!-- Start Carousel  -->
       <div class="slick slider-home">
-        <div><span>Image 0</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 1</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 2</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 3</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 4</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 5</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 6</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 7</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 8</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
-        <div><span>Image 9</span><img src="https://dummyimage.com/400/200/fff&text=Outback" alt=""></div>
+      <div class="product">
+        <div class="product-row flex-container-row">
+          <div class="product-media">
+            <img class="product-image" src="/assets/images/slider/home/Gril_page-1024x896-0x200.jpg" alt="La Bandera" />
+          </div>
+          <div class="product-description">
+            <h1>GRILLS & FIRE PITS</h1>
+            <p>Includes fire poker – $525 30” JUNIOR FIRE PIT (LEFT) Includes swivel grill, Dutch oven support, fire poker & ash pan – $925 36-40” TEXAS SIZE FIRE PIT (RIGHT) Features swivel grill, Dutch oven support, fire poker & ash pan – $1125</p>
+          </div>
+        </div>
+      </div>
+      <div class="product">
+        <div class="product-row flex-container-row">
+          <div class="product-media">
+            <img class="product-image" src="/assets/images/slider/home/Gril_page-1024x896-0x200.jpg" alt="La Bandera" />
+          </div>
+          <div class="product-description">
+            <h1>GRILLS & FIRE PITS</h1>
+            <p>Includes fire poker – $525 30” JUNIOR FIRE PIT (LEFT) Includes swivel grill, Dutch oven support, fire poker & ash pan – $925 36-40” TEXAS SIZE FIRE PIT (RIGHT) Features swivel grill, Dutch oven support, fire poker & ash pan – $1125</p>
+          </div>
+        </div>
+      </div>
       </div>
       <script type="text/javascript">
       $('.slider-home').slick({

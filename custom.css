@@ -1,7 +1,1 @@
 /* Please use this file for all CSS. */
-.slick {display: block;}
-.slick-image {display: inline-block;}
-.slider-home > div,
-.slider-home img {
-  height: 200px;
-}

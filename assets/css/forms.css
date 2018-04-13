@@ -1,9 +1,9 @@
-form {
+main form {
     margin-bottom: 24px;
 }
 
-input,
-select {
+main input,
+main select {
     height: 2em;
 }
 
@@ -176,9 +176,4 @@ textarea:-ms-input-placeholder {
         top: auto;
         bottom: -2px;
     }
-}
-
-
-}
-
 }

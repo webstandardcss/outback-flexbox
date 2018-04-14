@@ -98,7 +98,7 @@ $pageKeywords = $pageTitle . "Wildife Feeders Delivery Shipping Cost" . $siteKey
     <div class="product">
       <div class="product-row flex-container-row">
         <div class="product-media">
-          <a href="./profile-alfalfa-feeders.php">
+          <a href="./profile-alfalfa-feeder.php">
             <img class="product-image" src="obf/products/OB-multi-bale-hay-feeder-272x272.jpg" alt="Alfalfa Feeders" />
            </a> 
         <div class="product-description">

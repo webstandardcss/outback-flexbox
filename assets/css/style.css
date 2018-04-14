@@ -319,5 +319,12 @@ nav {
 }
 
 @media only screen and (min-width: 1050px) {
+  .sf-menu a {
+    font-size: .9em;
+  }
 
+  @media only screen and (min-width: 1280px) {
+    .sf-menu a {
+      font-size: 1.25em;
+  }
 }

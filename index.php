@@ -126,7 +126,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/Gril_page-1024x896-0x200.jpg" alt="GRILLS & FIRE PITS" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/Gril_page-1024x896-0x200.jpg" alt="GRILLS & FIRE PITS" /></a>
             </div>
             <div class="product-description">
               <h1>GRILLS & FIRE PITS</h1>
@@ -137,7 +137,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/shooting-bench-1024x1024-0x200.png" alt="SHOOTING BENCH" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/shooting-bench-1024x1024-0x200.png" alt="SHOOTING BENCH" /></a>
             </div>
             <div class="product-description">
               <h1>SHOOTING BENCH</h1>
@@ -148,7 +148,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/1EZ-Clean-Cart-w-deer-005-300x225-0x200.jpg" alt="E-Z CLEAN CART" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/1EZ-Clean-Cart-w-deer-005-300x225-0x200.jpg" alt="E-Z CLEAN CART" /></a>
             </div>
             <div class="product-description">
               <h1>E-Z CLEAN CART</h1>
@@ -159,7 +159,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/posing-cartRGBcropped_20141009-1024x708-0x200.jpg" alt="POSING CART" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/posing-cartRGBcropped_20141009-1024x708-0x200.jpg" alt="POSING CART" /></a>
             </div>
             <div class="product-description">
               <h1>POSING CART</h1>
@@ -170,7 +170,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/Caping-Table-Rick-bkgd-867x1024-0x200.png" alt="CAPING CART" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/Caping-Table-Rick-bkgd-867x1024-0x200.png" alt="CAPING CART" /></a>
             </div>
             <div class="product-description">
               <h1>CAPING CART</h1>
@@ -181,7 +181,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/All_grtballoffire_20140929-1024x512-0x200.png" alt="GREAT BALL OF FIRE WILDLIFE SCENE EMBELLISHED FIRE PIT" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/All_grtballoffire_20140929-1024x512-0x200.png" alt="GREAT BALL OF FIRE WILDLIFE SCENE EMBELLISHED FIRE PIT" /></a>
             </div>
             <div class="product-description">
               <h1>GREAT BALL OF FIRE WILDLIFE SCENE EMBELLISHED FIRE PIT</h1>
@@ -192,7 +192,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/Game-Rack-758x1024-0x200.png" alt="GAME RACK" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/Game-Rack-758x1024-0x200.png" alt="GAME RACK" /></a>
             </div>
             <div class="product-description">
               <h1>GAME RACK</h1>
@@ -203,7 +203,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/MICROWAVE-GRILL_09232013-1024x819-0x200.png" alt="MICRO-WAVE GRILL" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/MICROWAVE-GRILL_09232013-1024x819-0x200.png" alt="MICRO-WAVE GRILL" /></a>
             </div>
             <div class="product-description">
               <h1>MICRO-WAVE GRILL</h1>
@@ -214,7 +214,7 @@ iframe {
         <div class="product">
           <div class="product-row flex-container-row">
             <div class="product-media">
-              <img class="product-image" src="/assets/images/slider/home/EZ-lift-on-truck-639x10241-0x200.png" alt="E-Z LIFT LOADER" />
+              <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/EZ-lift-on-truck-639x10241-0x200.png" alt="E-Z LIFT LOADER" /></a>
             </div>
             <div class="product-description">
               <h1>E-Z LIFT LOADER</h1>

@@ -4,7 +4,7 @@ main form {
 
 main input,
 main select {
-    height: 2em;
+    height: 3.2em;
 }
 
 .gfield_label {
@@ -133,12 +133,18 @@ textarea:-ms-input-placeholder {
     width: 100%;
 }
 
+.imgverify {
+    position: relative;
+}
+
 .imgverify input {
-    width: 24%;
+    position: relative;
+    width: 33%;
+    top: -24px;
 }
 
 .imgverify img {
-    width: 36%;
+    width: 45%;
 }
 
 .menu-become-a-dealer a {

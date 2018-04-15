@@ -37,7 +37,7 @@ iframe {
     <iframe src="https://www.youtube.com/embed/yIDBzfALRYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
     
-    <div class="form dealer-form">
+    <div class="form gform-home">
     <!-- Start of the form -->
       <h1>Get In Touch</h1>
 
@@ -48,14 +48,21 @@ iframe {
           <input type="hidden" name="subject" value="Outback Homepage Get In Touch Form" />
           <input type="hidden" name="csvfile" value="mail-homepage.csv" />
           <input type="hidden" name="logfile" value="mail-homepage.log" />
+          <input type="hidden" name="derive_fields" value="ipaddr = REMOTE_ADDR,
+                                  browser = HTTP_USER_AGENT, 
+                                  referrer = HTTP_REFERER, 
+                                  DateTime = %'Date of form submission was: '% . %date% + %time%" />
           <input type="hidden" name="csvcolumns"
-              value="email:c,realname:c,phone:cs,zipcode:cs,product:r" />
+              value="DateTime:cs,ipaddr:cs,email:c,
+              realname:c,phone:cs,zipcode:cs,
+              product:r,browser:c,referrer:c" />
           <input type="hidden" name="required"
               value="email:Your email address,
               realname:Your name,
               phone:Your phone number,
               zipcode:Your zip code,
-              product:The reason you're interested in our product" />
+              product:The reason you're interested in our product,
+              imgverify:Please type the image text" />
           <div class="gform_body">
             <ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below">
               <li id="field_4_1" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible">
@@ -93,11 +100,11 @@ iframe {
                   </select>
                 </div>
               </li>
-              <li id="field_4_7" class="gfield message-text field_sublabel_below field_description_below gfield_visibility_visible">
+              <li id="field_4_7" class="gfield image-verify field_sublabel_below field_description_below gfield_visibility_visible">
                 <label class="gfield_label" for="comments">Comments</label>
-                <div class="ginput_container">
+                <div class="ginput_container imgverify">
                   <img src="http://new.outbackfeeders.com/obf/mail/verifyimg.php" alt="Image verification" name="vimg" />
-                  <input type="text" size="12" name="imgverify" />
+                  <input type="text" size="12" name="imgverify" placeholder="Enter image text" />
                 </div>
               </li>
             </ul>

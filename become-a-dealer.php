@@ -11,11 +11,30 @@ $extraCss = array("forms");
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
 <main class="ob-main flex-container">
   <h1>Become a Dealer</h1>
-  <div class="form dealer-form">
+  <div class="form gform-dealer">
     <h2>Apply to Become a Dealer Today</h2>
 
     <div class="gform_wrapper" id="gform_wrapper_4">
-      <form method="post" enctype="multipart/form-data" id="gform_4" action="">
+      <form method="post" enctype="multipart/form-data" id="gform_1" action="http://new.outbackfeeders.com/obf/mail/mail.php">
+          <input type="hidden" name="recipients" value="myaddress" />
+          <input type="hidden" name="good_url" value="/" />
+          <input type="hidden" name="subject" value="Outback Homepage Get In Touch Form" />
+          <input type="hidden" name="csvfile" value="mail-homepage.csv" />
+          <input type="hidden" name="logfile" value="mail-homepage.log" />
+          <input type="hidden" name="derive_fields" value="ipaddr = REMOTE_ADDR,
+                                  browser = HTTP_USER_AGENT, 
+                                  referrer = HTTP_REFERER, 
+                                  DateTime = %'Date of form submission was: '% . %date% + %time%" />
+          <input type="hidden" name="csvcolumns"
+              value="DateTime:cs,ipaddr:cs,email:c,
+              realname:c,phone:cs,zipcode:cs,
+              product:r,browser:c,referrer:c" />
+          <input type="hidden" name="required"
+              value="email:Your email address,
+              realname:Your name,
+              phone:Your phone number,
+              zipcode:Your zip code,
+              product:The reason you're interested in our product" />
         <div class="gform_body">
           <ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below">
             <li id="field_4_1" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible">

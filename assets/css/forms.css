@@ -133,6 +133,14 @@ textarea:-ms-input-placeholder {
     width: 100%;
 }
 
+.imgverify input {
+    width: 24%;
+}
+
+.imgverify img {
+    width: 36%;
+}
+
 .menu-become-a-dealer a {
     background: #008191;
 }

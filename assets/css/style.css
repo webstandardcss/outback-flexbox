@@ -5,6 +5,16 @@ body {
   min-height: 100vh;
 }
 
+main a:hover {
+  color: yellow;
+  border-bottom: solid white;
+}
+main a {
+  color: #ddd;
+  text-decoration: none;
+  border-bottom: solid yellow;
+}
+
 h1,h2,h3,h4,h5,h6,.impact {
   font-family: impact;
   font-weight: normal;

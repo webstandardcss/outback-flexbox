@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName  . "" . $pageTitle;
-$pageKeywords = $pageTitle . "" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName  . "  " . $pageTitle;
+$pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

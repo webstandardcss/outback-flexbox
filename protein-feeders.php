@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Protein Feeders";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName  . "Outback Feeders Protein Feeders and options" . $pageTitle;
-$pageKeywords = $pageTitle . "Protein Feeders gravity flow regulator" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName  . " Outback Feeders Protein Feeders and options " . $pageTitle;
+$pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

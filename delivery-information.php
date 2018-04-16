@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Delivery Information";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName  . "Delivery Information - Transport/Shipping cost" . $pageTitle;
-$pageKeywords = $pageTitle . "Wildife Feeders Delivery Shipping Cost" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName  . " Delivery Information - Transport/Shipping cost " . $pageTitle;
+$pageKeywords = $pageTitle . " Wildife Feeders Delivery Shipping Cost " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

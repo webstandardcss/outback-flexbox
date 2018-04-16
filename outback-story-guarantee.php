@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Homepage";
-$pageTitleTag = $siteName . " " . $pageTitle;
-$pageDescription = $siteName  . " " . $pageTitle;
-$pageKeywords = $pageTitle . "" . $siteKeywords;
+$pageTitleTag = $siteName . "   " . $pageTitle;
+$pageDescription = $siteName  . "   " . $pageTitle;
+$pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <style>

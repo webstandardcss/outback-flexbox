@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "BABY-BACK Low Profile Feeders";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName  . "Baby-Back Feeder Series" . $pageTitle;
-$pageKeywords = $pageTitle . "BABY-BACK Low Profile Feeders" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName  . " Baby-Back Feeder Series " . $pageTitle;
+$pageKeywords = $pageTitle . " BABY-BACK Low Profile Feeders " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Traps & Pens";
-$pageTitleTag = $siteName . "Traps and Pens" . $pageTitle;
-$pageDescription = $siteName  . "Outback Feeders Traps and Pens" . $pageTitle;
-$pageKeywords = $pageTitle . "Protein Feeders gravity flow regulator" . $siteKeywords;
+$pageTitleTag = $siteName . " Traps and Pens " . $pageTitle;
+$pageDescription = $siteName  . " Outback Feeders Traps and Pens " . $pageTitle;
+$pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

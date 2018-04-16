@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Top Gun Corn Feeder";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName  . "Top Gun Corn Feeder" . $pageTitle;
-$pageKeywords = $pageTitle . "Top Gun Corn Feeder Pistolero Directional Eliminator" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName  . " Top Gun Corn Feeder " . $pageTitle;
+$pageKeywords = $pageTitle . " Top Gun Corn Feeder Pistolero Directional Eliminator " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

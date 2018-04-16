@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Bulk Feeders Portofilo";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName  . "" . $pageTitle;
-$pageKeywords = $pageTitle . "" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName  . "  " . $pageTitle;
+$pageKeywords = $pageTitle . "  " . $siteKeywords;
 // $extraCss = array("forms");
 ?>
 

@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Corn Feeders";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName  . "Corn Feeders" . $pageTitle;
-$pageKeywords = $pageTitle . "Corn Feeder Pistolero Bear Cage" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName  . " Corn Feeders " . $pageTitle;
+$pageKeywords = $pageTitle . " Corn Feeder Pistolero Bear Cage " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

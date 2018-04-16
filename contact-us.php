@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Contact Us";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName . "Contact Outback Feeders" . $pageTitle;
-$pageKeywords = $pageTitle . "Contact Outback Feeders" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName . "Contact Outback Feeders " . $pageTitle;
+$pageKeywords = $pageTitle . " Contact Outback Feeders " . $siteKeywords;
 $extraCss = array("forms");
 ?>
 

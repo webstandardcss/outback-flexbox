@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Homepage";
-$pageTitleTag = $siteName . " " . $pageTitle;
-$pageDescription = $siteName  . " " . $pageTitle;
-$pageKeywords = $pageTitle . "" . $siteKeywords;
+$pageTitleTag = $siteName . "   " . $pageTitle;
+$pageDescription = $siteName  . "   " . $pageTitle;
+$pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

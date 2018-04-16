@@ -2,9 +2,9 @@
 
 <?php // Page data
 $pageTitle = "Why you should buy Outback Feeders";
-$pageTitleTag = $siteName . "Outback Feeders" . $pageTitle;
-$pageDescription = $siteName  . "Why you should buy Outback Feeders" . $pageTitle;
-$pageKeywords = $pageTitle . "Buy Outback Feeders cost durability service" . $siteKeywords;
+$pageTitleTag = $siteName . " Outback Feeders " . $pageTitle;
+$pageDescription = $siteName  . " Why you should buy Outback Feeders " . $pageTitle;
+$pageKeywords = $pageTitle . " Buy Outback Feeders cost durability service " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>

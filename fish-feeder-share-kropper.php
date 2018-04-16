@@ -37,7 +37,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
         <div class="product-row flex-container-row">
           <div class="product-single">
             <div class="product-media">
-              <img class="product-image" src="obf/Hunting Photos/Directional-300x300.png" alt="Directional" />
+              <img class="product-image" src="obf/hunting-photos/Directional-300x300.png" alt="Directional" />
             </div>
             <div class="product-description">
               <h3> Directional</h3>
@@ -45,7 +45,7 @@ $pageKeywords = $pageTitle . "" . $siteKeywords;
           </div>
           <div class="product-single">
             <div class="product-media">
-              <img class="product-image" src="obf/Hunting Photos/Eliminator-300x300.jpg" alt="Eliminator" />
+              <img class="product-image" src="obf/hunting-photos/Eliminator-300x300.jpg" alt="Eliminator" />
             </div>
             <div class="product-description">
               <h3>Eliminator</h3>

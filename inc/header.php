@@ -32,7 +32,7 @@
 </head>
 <body class="flex-container">
   <div id="topbar-search" class="topbar-widget flex-container-row">
-    <form role="search" method="get" id="searchform" class="search-form" action="http://outbackfeeders.com/">
+    <form role="search" method="get" id="searchform" class="search-form" action="/search.php">
       <label class="hidden" for="s">Search for:</label>
       <button type="submit" id="searchsubmit" class="search-icon"><i class="fas fa-search"></i></button>
       <input type="text" value="" name="q" id="tipue_search_input" class="search-query" placeholder="Search" autocomplete="off" required>

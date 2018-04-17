@@ -193,6 +193,10 @@ nav {
   border: none;
 }
 
+#searchform .search-query {
+  color: white;
+}
+
 .search-icon, .search-query, .navselect, .mobilenav-button {
   position: relative;
   top: -6px;

@@ -1,0 +1,7 @@
+.topbar-widget, .search-form {
+  position: relative;
+}
+
+.search-form {
+  top: 20px;
+}

@@ -5,6 +5,7 @@ $pageTitle = "Homepage";
 $pageTitleTag = $siteName . "   " . $pageTitle;
 $pageDescription = $siteName  . "   " . $pageTitle;
 $pageKeywords = $pageTitle . "  " . $siteKeywords;
+$extraCss = array("searchfix");
 ?>
 
 <style>

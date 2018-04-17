@@ -28,6 +28,10 @@
   
   <?php if (in_array("forms", $extraCss)) { ?>
     <link rel="stylesheet" href="/assets/css/forms.css">
+  <?php } ?>  
+  
+  <?php if (in_array("searchfix", $extraCss)) { ?>
+    <link rel="stylesheet" href="/assets/css/searchfix.css">
   <?php } ?>
 </head>
 <body class="flex-container">
@@ -35,7 +39,7 @@
     <form role="search" method="get" id="searchform" class="search-form" action="/search.php">
       <label class="hidden" for="s">Search for:</label>
       <button type="submit" id="searchsubmit" class="search-icon"><i class="fas fa-search"></i></button>
-      <input type="text" value="" name="q" id="tipue_search_input" class="search-query" placeholder="Search" autocomplete="off" required>
+      <input type="text" value="" name="q" id="tipue_search_input" style="border:none" class="search-query" placeholder="Search" autocomplete="off" required>
     </form>
     <div class="mobilenav">
       <?php require_once(dirname(__FILE__) . "/_mobilenav.php"); ?>

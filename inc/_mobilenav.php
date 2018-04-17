@@ -1,6 +1,6 @@
 <select id="menu-main-1" class="navselect">
   <option selected="selected" disabled="disabled">Menu</option>
-  <option value="http://outbackfeeders.com/">Home</option>
+  <option value="/">Home</option>
   <option value="./outback-story-guarantee.php">About Us
   </option>
   <option value="./contact-us.php">–&nbsp;Contact Us</option>

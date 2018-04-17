@@ -1,6 +1,6 @@
 <nav id="nav-main" class="clearfix" role="navigation">
   <ul id="menu-main" class="sf-menu sf-js-enabled">
-    <li class="menu-home menu-home"><a href="http://outbackfeeders.com/">Home</a></li>
+    <li class="menu-home menu-home"><a href="/">Home</a></li>
     <li class="menu-about-us sf-dropdown menu-about-us">
       <a href="./outback-story-guarantee.php" class="sf-with-ul">About Us<span class="sf-sub-indicator"> »</span></a>
       <ul class="sf-dropdown-menu">

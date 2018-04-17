@@ -18,7 +18,7 @@
   <!-- Add the slick-theme.css if you want default styling -->
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
   <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
-  <link rel="stylesheet" href="/assets/vendors/tipue/tipuesearch/css/tipuesearch.css">
+  <!-- <link rel="stylesheet" href="/assets/vendors/tipue/tipuesearch/css/tipuesearch.css"> -->
   <script src="/assets/vendors/tipue/tipuesearch/tipuesearch.min.js"></script>
   <script src="/assets/js/tipuesearch_set.js"></script>
   <link rel="stylesheet" href="/assets/css/normalize.css">

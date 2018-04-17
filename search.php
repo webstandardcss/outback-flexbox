@@ -9,11 +9,19 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
+<link rel="stylesheet" href="/assets/vendors/tipue/tipuesearch/css/tipuesearch.css">
+
+  <style>
+    main > form > input {
+      margin-left:
+    }
+  </style>
+
   <main class="ob-main flex-container">
     <h1>Search Outback!</h1>
     
     <form action="search.php">
-      <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
+      <input type="text" name="q" id="tipue_search_input" autocomplete="off" placeholder="Search Outback" required>
     </form>
     
     <p>Outback products are “Built Right the First Time, to Last a Lifetime”, withstanding extreme weather, wind and wildlife abuse.</p>

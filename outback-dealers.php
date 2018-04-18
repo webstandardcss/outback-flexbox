@@ -9,7 +9,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
-    <h1>Water Stations</h1>
+    <h1>Authorized Outback Dealers</h1>
+    <a href="become-a-dealer.php">Become an Outback Wildlife Feeders dealer</a>
 
 <div class="product-small ob-dealer">
   <h2>TEXAS</h2>

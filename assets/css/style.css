@@ -71,6 +71,14 @@ header {
   min-height: 240px;
 }
 
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
 .left-side {
   align-self: flex-start;
 }

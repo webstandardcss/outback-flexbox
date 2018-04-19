@@ -21,6 +21,7 @@
   <!-- <link rel="stylesheet" href="/assets/vendors/tipue/tipuesearch/css/tipuesearch.css"> -->
   <script src="/assets/vendors/tipue/tipuesearch/tipuesearch.min.js"></script>
   <script src="/assets/js/tipuesearch_set.js"></script>
+  <script src="/assets/js/tipuesearch_content.js"></script>
   <link rel="stylesheet" href="/assets/css/normalize.css">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="stylesheet" href="/custom.css">

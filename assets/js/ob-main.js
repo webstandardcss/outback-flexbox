@@ -48,8 +48,8 @@ $(document).ready(function () {
 });
 
 // TODO Create PHP Pages - DONE
-// TODO Create Sample Content Page Areas for Luis to use when making pages
-// TODO Create Contact Form Areas for Luis to use when making forms
-// TODO Implement Tipue Search or Google API search
-// http://www.tipue.com/beaty/
-// http://www.tipue.com/search/
+// TODO Create Sample Content Page Areas for Luis to use when making pages DONE
+// TODO Create Contact Form Areas for Luis to use when making forms DONE
+// TODO Implement Tipue Search or Google API search DONE
+// http://www.tipue.com/beaty/ DONE
+// http://www.tipue.com/search/ DONE

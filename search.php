@@ -35,12 +35,17 @@ $extraCss = array("searchfix");
   <main class="ob-main flex-container">
     <h1>Search Outback!</h1>
     
-    <form action="search.php">
+    <!-- <form action="search.php">
       <input type="text" name="q" id="tipue_search_input" autocomplete="off" placeholder="Search Outback" required>
-    </form>
+    </form> -->
     
     <h3>Outback products are “Built Right the First Time, to Last a Lifetime”, withstanding extreme weather, wind and wildlife abuse.</h3>
     
+    <form action="search.php">
+    <div class="tipue_search_left"><img src="tipuesearch/search.png" class="tipue_search_icon"></div>
+    <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" placeholder="Search Outback" required></div>
+    <div style="clear: both;"></div>
+    </form>
     <div id="tipue_search_content"></div>
 
     <h3>All Outback products are innovatively designed and built at the original location in Gilmer, Texas. Made with only high quality American steel and craftsmanship, all products are 100% Satisfaction Guaranteed.</h3>
@@ -48,9 +53,9 @@ $extraCss = array("searchfix");
     <script>
       $(document).ready(function() {
         $('#tipue_search_input').tipuesearch({
-          'mode': 'live',
-          'liveDescription': 'h1',
-          'liveContent': 'main'
+          // 'mode': 'live',
+          // 'liveDescription': 'h1',
+          // 'liveContent': 'main'
         });
       });
     </script>

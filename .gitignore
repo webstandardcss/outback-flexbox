@@ -3,6 +3,7 @@
 
 ### Custom Rules ###
 /obf/
+error_log
 
 ### Linux ###
 *~

@@ -12,6 +12,7 @@ $extraCss = array("searchfix");
 <link rel="stylesheet" href="/assets/vendors/tipue/tipuesearch/css/tipuesearch.css">
 
   <style>
+    #searchform { display: none; }
     #tipue_search_input {
       width: 100%;
       max-width: 100%;

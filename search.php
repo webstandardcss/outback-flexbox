@@ -42,7 +42,7 @@ $extraCss = array("searchfix");
     <h3>Outback products are “Built Right the First Time, to Last a Lifetime”, withstanding extreme weather, wind and wildlife abuse.</h3>
     
     <form action="search.php">
-    <div class="tipue_search_left"><img src="tipuesearch/search.png" class="tipue_search_icon"></div>
+    <div class="tipue_search_left"><img src="/assets/vendors/tipue/tipuesearch/search.png" class="tipue_search_icon"></div>
     <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" placeholder="Search Outback" required></div>
     <div style="clear: both;"></div>
     </form>

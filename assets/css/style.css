@@ -62,7 +62,9 @@ h1,h2,h3,h4,h5,h6,.impact {
 .ob-carousel > * {
   margin: auto;
 }
-
+.ob-content {
+  padding: 24px;
+}
 header {
   background-image: url(../images/header-background-slim.jpg);
   background-size: contain;

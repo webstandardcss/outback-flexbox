@@ -1,1 +1,25 @@
 /* Please use this file for all CSS. */
+
+@media only screen and (max-width: 960px) {
+	.product-description h1 {
+		font-size: 24px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+  .product-description {
+    display: none;
+  }
+
+  .product-media,
+  .product-media a {
+    display: block;
+    width: 100%;
+  }
+
+  .product-media img {
+    max-width: 100%;
+    width: 100%;
+    height: auto !important;
+  }
+}

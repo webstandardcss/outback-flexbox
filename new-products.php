@@ -25,7 +25,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         <div class="product-row flex-container-row">
           <div class="product-single">
             <div class="product-media">
-              <img class="product-image" src="obf/products/IMG_5870-259x300.png" alt="IMG 5870" />
+              <img class="product-image" src="obf/products/IMG_5870-e1516225260149-259x300.png" alt="IMG 5870" />
             </div>
             <div class="product-description">
               

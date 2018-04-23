@@ -129,9 +129,6 @@ $extraCss = array("forms");
     height: 300px;
   }
 
-  .ob-carousel {
-      margin-top: 50px;
-    }
   </style>
 <div class="slick-outer ob-carousel">
 

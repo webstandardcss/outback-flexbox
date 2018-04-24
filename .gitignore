@@ -4,6 +4,7 @@
 ### Custom Rules ###
 /obf/
 error_log
+.ftpquota
 
 ### Linux ###
 *~

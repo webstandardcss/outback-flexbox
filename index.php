@@ -12,8 +12,9 @@ $extraCss = array("forms");
 
 <main class="ob-main flex-container-row">
   <h1>Welcome to Outback Feeders!</h1>
-  <iframe src="https://www.youtube.com/embed/yIDBzfALRYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <!-- iframe src="https://www.youtube.com/embed/yIDBzfALRYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yIDBzfALRYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
   <div class="form gform-home">
   <!-- Start of the form -->
@@ -111,11 +112,17 @@ $extraCss = array("forms");
 <style scoped>
   iframe {
     margin: 0 auto;
+  } 
+
+@media screen and (max-width: 580px) {
+  iframe {
+    margin: 0 auto;
     position: relative;
     right: 5%;
     width: 80%;
     height: 40%;
   }
+}
   .slider-home, .slider-home h1 {
     color: #B3D8DD;
   }
@@ -128,20 +135,16 @@ $extraCss = array("forms");
   .slider-home img {
     height: 300px;
   }
-<<<<<<< HEAD
 
-=======
-  
   .ob-carousel {
       margin-top: 50px;
    }
 
   @-moz-document url-prefix() {
-	.ob-carousel {
+    .ob-carousel {
       margin-top: 120px;
     }
   }
->>>>>>> 596a1fc4abbb3b4133e05144382df3434e492ab9
   </style>
 <div class="slick-outer ob-carousel">
 

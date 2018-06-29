@@ -9,7 +9,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
   <main class="ob-main flex-container">
-    <h1>Fish Feederck!</h1>
+    <h1>Fish Feeder</h1>
     <h2>Introducing Brand New Fish Feeder Designs</h2>
     <h1>The “Share-Kropper”</h1>
     

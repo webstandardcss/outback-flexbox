@@ -176,8 +176,8 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
 
     <article class="ob-content">
       <section class="ob-section">
-	    <h3>“THE Grub-Shak.”</h3>
-	    <p>The “Grub-Shak is an open-trough regulated feeder. The “Grub-Shak” will feed deer, sheep, goats, horses, cattle, etc. The “Grub-Shak” comes standard with all the ruggedness, reliability and durability that Outback is known for.</p>
+	    <h3>The "Grub-Shak”</h3>
+	    <p>The “Grub-Shak" is an open-trough regulated feeder. The “Grub-Shak” will feed deer, sheep, goats, horses, cattle, etc. The “Grub-Shak” comes standard with all the ruggedness, reliability and durability that Outback is known for.</p>
 
 	    <p>The “Grub-Shak” is available in 1000# and 2000# capacities, at a weight of 530 pounds and 614 pounds. Both models come with our built in rain shield. They also come with a removable ladder and platform.</p>
 

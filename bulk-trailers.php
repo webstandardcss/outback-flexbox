@@ -46,7 +46,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
  <div class="product">
         <div class="product-row flex-container-row">
           <div class="product-media">
-            <img class="product-image" src="obf/products/Pardner-6K-300x215.jpg" alt="    PARDNER 6K " />
+            <img class="product-image" src="obf/products/PARDNER-6K-300x215.jpg" alt="    PARDNER 6K " />
           </div>
           <div class="product-description">
             <h3>Double Barrel “PARDNER”</h3>

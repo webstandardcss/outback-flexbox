@@ -106,7 +106,7 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
     <div class="product">
       <div class="product-row flex-container-row">
        <div class="product-media">
-        <img class="product-image" src="obf/products/MICROWAVE-GRILL_09232013-300X240.png" alt="Microwave Grill" />
+        <img class="product-image" src="obf/products/MICROWAVE-GRILL_09232013-300x240.png" alt="Microwave Grill" />
     	</div>
         <div class="product-description">
           <h3>MICRO-WAVE GRILL</h3>

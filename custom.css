@@ -7,10 +7,12 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .product-description {
+  /* .product-description {
     display: none;
+  } */
+  .flex-container-row {
+    flex-flow: column wrap;
   }
-
   .product-media,
   .product-media a {
     display: block;

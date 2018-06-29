@@ -14,11 +14,11 @@
   .product-media,
   .product-media a {
     display: block;
-    width: 100%;
+    max-width: 80vw;
   }
 
   .product-media img {
-    max-width: 100%;
+    max-width: 80vw;
     width: 100%;
     height: auto !important;
   }

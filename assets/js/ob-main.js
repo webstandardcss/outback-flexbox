@@ -26,24 +26,13 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   // Mobile navigation
-  var dropdownSelect = $(".navselect");
+  var dropdownNav = $(".nav-main-mobile");
   var dropdownButton = $(".mobilenav-button");
-  var dropdownLength = $(".navselect > option").length;
-  var pageBody = $(".ob-main");
   // Hide the menu on page load
-  dropdownSelect.hide();
+  dropdownNav.hide();
   // When clicking menu button, hide the button and show the menu.
   dropdownButton.click(function (e) {
-   dropdownSelect.toggle().focus().attr('size', dropdownLength);
-  });
-  // When clicking menu, hide the clicked menu and show the button.
-  dropdownSelect.click(function () {
-    dropdownSelect.hide();
-    dropdownButton.show();
-  });
-  // Follow link from the selected option value
-  dropdownSelect.change(function () {
-    window.location = $(this).find("option:selected").val();
+    dropdownNav.toggle();
   });
 });
 

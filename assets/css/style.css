@@ -108,21 +108,22 @@ nav {
 }
 
 .nav-main-mobile {
-  align-self: flex-start;
-}
-
-.nav-main-mobile .sf-menu {
-  display: block;
-  position: absolute;
-  padding: 24px;
-  min-width: 50%;
-  left: 25%;
-  top: 24px;
   background-color: rgba(0, 0, 0, 0.7);
 }
 
+.nav-main-mobile .sf-menu {
+  padding: 0;
+  display: flex;
+  flex-flow: wrap;
+  position: relative;
+  z-index: 9;
+  top: -18px;
+}
+
 .nav-main-mobile .sf-menu li {
+  background-color: rgba(0, 0, 0, 0.7);
   padding: 6px;
+  width: 100%;
 }
 
 .sf-dropdown-menu {

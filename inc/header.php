@@ -43,9 +43,10 @@
       <input type="text" value="" name="q" id="tipue_search_input" style="border:none" class="search-query" placeholder="Search" autocomplete="off" required>
     </form>
     <div class="mobilenav">
-      <?php require_once(dirname(__FILE__) . "/_mobilenav.php"); ?>
+      <span class="mobilenav-button"><span class="headerfont">Menu </span><i class="fas fa-align-justify"></i></span>      
     </div>
   </div>
+  <?php require_once(dirname(__FILE__) . "/_mobilenav.php"); ?>
   <header class="ob-header flex-container">
     <?php require_once(dirname(__FILE__) . "/_nav.php"); ?>
   </header>

@@ -16,27 +16,26 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         
         <br>
         <br>
+        
+        <p class="product-line">Baby-Back 600# w/Eliminator– <span class="product-price">$1175</span></p>
 
-        <h4 class="align-left">Protein Feeders </h4>
-
-        <p class="product-line">1 BP 2000# – <span class="product-price">$1700</span></p>
-
+         <br>    
          <br>
+
+        <p class="product-line">"Pardner" 3000# – <span class="product-price">$5775</span> Each</p>
+        <br>    
+        <br>
          
-        <h4 class="align-left">Corn Feeders</h4>
-
-         <br>
-
-        <h4 class="align-left">Quail Feeders</h4>
-
-        <p class="product-line">2 Quail Central 600# – <span class="product-price">$1000</span> Each</p>
-
-        <p class="product-line">2 Quail Central 1000# – <span class="product-price">$1050</span> Each</p>
-
+        <p class="product-line">"Pardner" 4000# – <span class="product-price">$7600</span> Each</p>
+        <br>    
         <br>
+        
+        <p class="product-line">Quail Central 1000# – <span class="product-price">$1050</span> Each</p>
+        <br>
+        <br>    
         <br>
 
-        <small>updated 2-6-2018</small>
+        <small>updated 07-03-2018</small>
       </section>
 
   </main>

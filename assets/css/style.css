@@ -8,6 +8,7 @@ body {
 .sf-sub-indicator {
   display: inline-block;
   float: right;
+  color: #ccc;
 }
 
 main a:hover {

@@ -5,6 +5,11 @@ body {
   min-height: 100vh;
 }
 
+.sf-sub-indicator {
+  display: inline-block;
+  float: right;
+}
+
 main a:hover {
   color: yellow;
   border-bottom: solid white;

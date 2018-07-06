@@ -8,7 +8,7 @@ $pageKeywords = $pageTitle . " Corn Feeder Pistolero Bear Cage " . $siteKeywords
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container cushycms">
+  <main class="ob-main flex-container cushycms-text">
     <h1>Corn Feeders</h1>
     
 	<div class="product">

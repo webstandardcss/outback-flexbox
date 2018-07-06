@@ -9,7 +9,7 @@ $extraCss = array("forms");
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-<main class="ob-main flex-container cushycms">
+<main class="ob-main flex-container cushycms-text">
   <h1>Become a Dealer</h1>
   <a href="outback-dealers.php">Find a dealer</a>
   <div class="form gform-dealer">

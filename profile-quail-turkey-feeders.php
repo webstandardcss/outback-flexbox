@@ -8,7 +8,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container cushycms">
+  <main class="ob-main flex-container cushycms-text">
     <h1>Quail & Turkey Feeders</h1>
      <div class="product">
         <div class="product-row flex-container-row">

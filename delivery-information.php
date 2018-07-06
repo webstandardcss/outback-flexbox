@@ -8,7 +8,7 @@ $pageKeywords = $pageTitle . " Wildife Feeders Delivery Shipping Cost " . $siteK
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container cushycms">
+  <main class="ob-main flex-container cushycms-text">
     <h1>Delivery Information</h1>
 	<h2>Transport/ Shipping Cost</h2>
 	<h3>Dear Valued Customer</h3>

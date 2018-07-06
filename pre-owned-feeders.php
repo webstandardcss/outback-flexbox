@@ -8,7 +8,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container cushycms">
+  <main class="ob-main flex-container cushycms-text">
     <h1>Pre Owned Feeders</h1>
     <article class="ob-content">
       <section class="ob-section">

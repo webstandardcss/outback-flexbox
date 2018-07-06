@@ -8,7 +8,7 @@ $pageKeywords = $pageTitle . " Buy Outback Feeders cost durability service " . $
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container cushycms">
+  <main class="ob-main flex-container cushycms-text">
     <h1>Why you should choose Outback Wildlife Feeders</h1>
 
 	<p>When Outback Wildlife Feeders rolled the first feeder off the shop floor over 20 years ago, there was no business plan or expectations of market growth. Outback was founded on the idea of “built right the first time to last a lifetime.” No skinny legs that will break, no air~conditioning duct materials and rivets to fall apart, no empty promises of service after the sale. We build it all right here in Gilmer, Texas, so you know it’s built right. The attention to the most tiny detail is what makes us the company we are today. Let’s fast forward to 2014, our biggest and best year of our company. We still operate on the same design and idea of producing the best wildlife feeder every day. We offer the highest quality, durability and service of any feeder company in the world. We believe there are four things to consider when choosing our wildlife feeder.</p> 

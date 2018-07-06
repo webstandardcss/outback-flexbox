@@ -1,5 +1,5 @@
 
-  <ul class="menu-main sf-menu sf-js-enabled">
+  <ul class="menu-main sf-menu sf-js-enabled cushycms-text">
     <li class="menu-home menu-home"><a href="/">Home</a></li>
     <li class="menu-about-us sf-dropdown menu-about-us">
       <a href="/outback-story-guarantee.php" class="sf-with-ul">About Us</a><span class="sf-sub-indicator"> »</span>

@@ -9,7 +9,7 @@ $extraCss = array("forms");
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-<main class="ob-main flex-container">
+<main class="ob-main flex-container cushycms">
   <h1>Contact Us</h1>
   <div class="form gform-contact">
     <div class="gform_wrapper" id="gform_wrapper_1">

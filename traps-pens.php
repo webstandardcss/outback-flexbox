@@ -8,7 +8,7 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container">
+  <main class="ob-main flex-container cushycms">
     <h1>Traps & Pens </h1>
 
 	<div class="product">

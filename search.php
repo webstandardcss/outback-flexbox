@@ -33,7 +33,7 @@ $extraCss = array("searchfix");
     }
   </style>
 
-  <main class="ob-main flex-container">
+  <main class="ob-main flex-container cushycms">
     <h1>Search Outback!</h1>
     
     <!-- <form action="search.php">

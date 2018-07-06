@@ -9,7 +9,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container">
+  <main class="ob-main flex-container cushycms">
     <h1>Bulk Trailers</h1>
     <p>Outback’s blower system delivers 160# of corn per minute and 125# of protein per minute.<p>
 

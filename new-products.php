@@ -9,7 +9,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 ?>
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
-  <main class="ob-main flex-container">
+  <main class="ob-main flex-container cushycms">
     <h1>THE ROAD DOC</h1>
     <p>Keeping your herd healthy is key to growing trophy animals. The Road Doc allows you to maintain the health of your deer, exotics and even quail by treating their feed or grain. The Road Doc is a dual purpose 200# road feeder that not only allows you to use it as a road feeder but also allows you to apply a liquid continuously and uniformly to your feed or grain.</p>
 

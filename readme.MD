@@ -6,10 +6,24 @@
 
 #### Built with Flexbox to improve on http://outbackfeeders.com wordpress theme.
 
-#### Directions
-Copy and rename blank.php
+### Directions
+
+#### Creating a new page
+Copy and rename blank.php (or some other page)
 
 Use all lowercase, no spaces or underscores, only-separate-words-with-dashes in classes, attributes, and filenames.
+
+#### Existing Page Editing
+Use this code editor extension for chrome for syntax highlighting
+https://chrome.google.com/webstore/detail/textarea-to-code-editor/kcapdaijpdnhajjgdimlhoaaaiplkobj?hl=en-US
+
+Login Here
+https://www.cushycms.com/en/sites
+
+1. Click Page to edit
+1. Right click the textarea
+1. Click Textarea to Code Editor
+1. Click HTML
 
 #### TODO
 1. TODO Create PHP Pages - DONE

@@ -50,7 +50,7 @@ $pageKeywords = $pageTitle . " Wildife Feeders Delivery Shipping Cost " . $siteK
       <div class="product-row flex-container-row">
         <div class="product-media">
           <a href="./profile-feed-delivery-systems.php">
-            <img class="product-image" src="obf/products/Amigo-correct_091714-272X272.jpg" alt="Feed Delivery Systems" />
+            <img class="product-image" src="obf/products/Amigo-correct_091714-272x272.jpg" alt="Feed Delivery Systems" />
           </a>
           <div class="product-description">
           <h3>Feed Delivery Systems</h3>

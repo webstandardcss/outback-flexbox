@@ -21,7 +21,7 @@ $extraCss = array("forms");
     <h1>Get In Touch</h1>
 
     <div class="gform_wrapper" id="gform_wrapper_4">
-      <form method="post" enctype="multipart/form-data" id="gform_4" action="http://new.outbackfeeders.com/obf/mail/mail.php">
+      <form method="post" enctype="multipart/form-data" id="gform_4" action="https://outbackfeeders.com/obf/mail/mail.php">
         <input type="hidden" name="recipients" value="myaddress" />
         <input type="hidden" name="good_url" value="/" />
         <input type="hidden" name="subject" value="Outback Homepage Get In Touch Form" />
@@ -82,7 +82,7 @@ $extraCss = array("forms");
             <li id="field_4_7" class="gfield image-verify field_sublabel_below field_description_below gfield_visibility_visible">
               <label class="gfield_label" for="comments">Comments</label>
               <div class="ginput_container imgverify">
-                <img src="http://new.outbackfeeders.com/obf/mail/verifyimg.php" alt="Image verification" name="vimg" />
+                <img src="https://outbackfeeders.com/obf/mail/verifyimg.php" alt="Image verification" name="vimg" />
                 <input type="text" size="12" name="imgverify" placeholder="Enter image text" />
               </div>
             </li>
@@ -153,54 +153,47 @@ $extraCss = array("forms");
     <div class="product">
       <div class="product-row flex-container-row">
         <div class="product-media">
-          <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/Gril_page-1024x896-0x200.jpg" alt="GRILLS & FIRE PITS" /></a>
+          <a href="new-half-rack-protein-series.php">
+          <img class="product-image" src="obf/products/IMG_1700-2.jpg" alt="New Half Rack-Series" /></a>
         </div>
         <div class="product-description">
-          <h1>GRILLS & FIRE PITS</h1>
-          <p>Includes fire poker – $525 30” JUNIOR FIRE PIT (LEFT) Includes swivel grill, Dutch oven support, fire poker & ash pan – $925 36-40” TEXAS SIZE FIRE PIT (RIGHT) Features swivel grill, Dutch oven support, fire poker & ash pan – $1125</p>
+          <h1>New Half-back series </h1>
+          <p>Choose from three models - all available in three sizes: 400#, 600# and 1000# capacities.The Half-Back Gravity Flow model is the shortest of the Series. The Half-Back Gravity Flow XT is six inches taller; allowing for more antler clearance.</p>
         </div>
       </div>
     </div>
     <div class="product">
       <div class="product-row flex-container-row">
         <div class="product-media">
-          <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/shooting-bench-1024x1024-0x200.png" alt="SHOOTING BENCH" /></a>
+          <a href="/protein-feeders.php">
+            <img class="product-image" src="/obf/products/galvanized-finish-2020.jpg" alt="Galvanized Coating" /></a>
         </div>
         <div class="product-description">
-          <h1>SHOOTING BENCH</h1>
-          <p>Portable with swivel seat. Shown with MB Ranch King’s shooting system (not included). $500</p>
+          <h1>Galvanized Coating </h1>
+          <p>Hot-dipped galvanized coating for extra corrosion protection. Call for a quote to add this option to your feeder order.</p>
         </div>
       </div>
     </div>
     <div class="product">
       <div class="product-row flex-container-row">
         <div class="product-media">
-          <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/1EZ-Clean-Cart-w-deer-005-300x225-0x200.jpg" alt="E-Z CLEAN CART" /></a>
+          <a href="bulk-trailers.php">
+          <img class="product-image" src="/obf/products/float-tires-pardner-4m.png" alt="Flotation Tires" /></a>
         </div>
         <div class="product-description">
-          <h1>E-Z CLEAN CART</h1>
-          <p>Cleaning a deer doesn’t have to be a back-breaking job! $500</p>
+          <h1>Floatation Tires (per axle) - $700</h1>
+          
         </div>
       </div>
     </div>
     <div class="product">
       <div class="product-row flex-container-row">
         <div class="product-media">
-          <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/posing-cartRGBcropped_20141009-1024x708-0x200.jpg" alt="POSING CART" /></a>
+          <a href="/water-stations.php">
+          <img class="product-image" src="/obf/products/Reg-Quail-Cntrl_20140918-300x252.jpg" alt="CAPING CART" /></a>
         </div>
         <div class="product-description">
-          <h1>POSING CART</h1>
-          <p>Preserves your trophy for the perfect photo $500</p>
-        </div>
-      </div>
-    </div>
-    <div class="product">
-      <div class="product-row flex-container-row">
-        <div class="product-media">
-          <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/Caping-Table-Rick-bkgd-867x1024-0x200.png" alt="CAPING CART" /></a>
-        </div>
-        <div class="product-description">
-          <h1>CAPING CART</h1>
+          <h1>Water Stations</h1>
           <p>Makes caping an easier one-man job $500</p>
         </div>
       </div>
@@ -208,22 +201,12 @@ $extraCss = array("forms");
     <div class="product">
       <div class="product-row flex-container-row">
         <div class="product-media">
-          <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/All_grtballoffire_20140929-1024x512-0x200.png" alt="GREAT BALL OF FIRE WILDLIFE SCENE EMBELLISHED FIRE PIT" /></a>
+          <a href="hunt-camp-equipment.php">
+          <img class="product-image" src="/assets/images/slider/home/All_grtballoffire_20140929-1024x512-0x200.png" alt="GREAT BALL OF FIRE WILDLIFE SCENE EMBELLISHED FIRE PIT" /></a>
         </div>
         <div class="product-description">
           <h1>GREAT BALL OF FIRE WILDLIFE SCENE EMBELLISHED FIRE PIT</h1>
           <p>No two alike, each one a work of art! 1400 degree high-temperature powder-coat finish. Fire poker & ash can included. $2150</p>
-        </div>
-      </div>
-    </div>
-    <div class="product">
-      <div class="product-row flex-container-row">
-        <div class="product-media">
-          <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/Game-Rack-758x1024-0x200.png" alt="GAME RACK" /></a>
-        </div>
-        <div class="product-description">
-          <h1>GAME RACK</h1>
-          <p>Portable with quartz lighting & 4 winches (800 Lb. Capacity each) $1000</p>
         </div>
       </div>
     </div>
@@ -241,11 +224,14 @@ $extraCss = array("forms");
     <div class="product">
       <div class="product-row flex-container-row">
         <div class="product-media">
-          <a href="hunt-camp-equipment.php"><img class="product-image" src="/assets/images/slider/home/EZ-lift-on-truck-639x10241-0x200.png" alt="E-Z LIFT LOADER" /></a>
+          <a href="/specialty-products.php">
+          <img class="product-image" src="/obf/products/alfalfa-237x300.jpg" alt="Specialty Products"/></a>
         </div>
         <div class="product-description">
-          <h1>E-Z LIFT LOADER</h1>
-          <p>Locking swivel design allows easy loading of animal from ground or vehicle. Faatures heavy-duty brake. $375</p>
+          <h1>Specialty Products</h1>
+          <p>HAY & ALFALFA FEEDERS</p>
+          <p>Fawn Specialty Products</p>
+          <p>FAWN FEEDER</p>
         </div>
       </div>
     </div>

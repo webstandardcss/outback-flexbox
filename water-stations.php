@@ -69,31 +69,6 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         </div>
       </div>
 <br>
-      <div class="product">
-        <div class="product-row flex-container-row">
-          <div class="product-media">
-            <img class="product-image" src="obf/products/Rain-Collect-wings-open-300x197.jpg" alt="Wildlife Guzzler"  />            
-          </div>
-          <div class="product-description">
-            <h3>WILDLIFE GUZZLER WATER STATION</h3>
-
-            <p>Collects more rainfall and natural condensation for wildlife.<br>
-            500 Gallon Capacity (1” rainfall collects 45 gal.)</p>
-
-            <p>$3150</p>
-
-            <p>For information about NRCS cost-sharing on the Wildlife Guzzler contact your local NRCS office or Outback Wildlife Feeders.</p>
-          </div>
-        </div>
-      </div>
-
-    <div class="product">
-     <div class="product-row flex-container-row">
-      <div class="product-media">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/n0jeQUP-aeo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-          </div>
-        </div>
-      </div>
 
      
   </main>

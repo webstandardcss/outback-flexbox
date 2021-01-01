@@ -19,7 +19,7 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
         <div class="product-description">
           <h3>CP Gravity Flow Protein Feeder</h3>
           <p>1000# – $2250</p>
-          <p>2000# – $2250</p>
+          <p>2000# – $2350</p>
           <p>3000# – $2600</p>
           <p>Aoudad Bars – $100</p>
         </div>
@@ -164,7 +164,7 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
     <div class="product">
       <div class="product-row flex-container-row">
       	<div class="product-media">
-        <img class="product-image" src="obf/products/Mineral-FDR-Attachment-179x300.jpg" alt="Granular Mineral Feeder" />
+        <img class="product-image" src="obf/products/Mineral-Fdr-Attachment-179x300.jpg" alt="Granular Mineral Feeder" />
         </div>
         <div class="product-description">
           <h3>Granular Mineral Feeder</h3>
@@ -173,36 +173,27 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
         </div>
       </div>
     </div>
-
-    <article class="ob-content">
-      <section class="ob-section">
-	    <h3>The "Grub-Shak”</h3>
-	    <p>The “Grub-Shak" is an open-trough regulated feeder. The “Grub-Shak” will feed deer, sheep, goats, horses, cattle, etc. The “Grub-Shak” comes standard with all the ruggedness, reliability and durability that Outback is known for.</p>
-
-	    <p>The “Grub-Shak” is available in 1000# and 2000# capacities, at a weight of 530 pounds and 614 pounds. Both models come with our built in rain shield. They also come with a removable ladder and platform.</p>
-
-	    <p>The “Grub-Shak” will evenly deliver feed in our round trough design. Even 3/8″ cattle creep pellets work well.</p>
-		</section>
-	</article>
+    
+    <br>
+    <br>
+    
+    <div class="product">
+      <div class="product-row flex-container-row">
+      	<div class="product-media">
+        <img class="product-image" src="obf/products/galvanized-finish-2020.jpg" alt="Granular Mineral Feeder" />
+        </div>
+        <div class="product-description">
+          <h3>GALVANIZED COATING</h3>
+          <p>Hot-dipped galvanized coating for extra corrosion protection.</p> 
+          <p>Call for a quote to add this option to your feeder order.</p>
+        </div>
+      </div>
+    </div>
     
     <br>
     <br>
 
-    <div class="product">
-      <div class="product-row flex-container-row">
-        <div class="product-media">
-        <img class="product-image" src="obf/products/IMG_5311-e1516320224166-1024x708.jpg" alt="Grub-Shak" />
-        </div>
-        <div class="product-description">
-          <p>1000# – $2650</p>
-          <p>2000# – $2950</p>
-          <p>Dispenses 1/2 lbs. per second deer pellets.</p>
-        </div>
-      </div>
-    </div>
-    <div class="product-row flex-container-row">
-        <div class="product-media">
-   			<img src="obf/UI/Large-capacities_graphic-1024X479.png" alt="Large-capacities-graphic" width="451" height="210">
+    
     </div>
 </div>
   </main>

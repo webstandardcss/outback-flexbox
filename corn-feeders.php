@@ -65,6 +65,25 @@ $pageKeywords = $pageTitle . " Corn Feeder Pistolero Bear Cage " . $siteKeywords
         </div>
       </div>
     </div>
+    <br>
+    <br>
+    
+    <div class="product">
+      <div class="product-row flex-container-row">
+      	<div class="product-media">
+        <img class="product-image" src="obf/products/galvanized-finish-2020.jpg" alt="Granular Mineral Feeder" />
+        </div>
+        <div class="product-description">
+          <h3>GALVANIZED COATING</h3>
+          <p>Hot-dipped galvanized coating for extra corrosion protection.</p> 
+          <p>Call for a quote to add this option to your feeder order.</p>
+        </div>
+      </div>
+    </div>
+    
+    <br>
+    <br>
+
     <h2>When pulling or moving feeders use extreme caution. Feeders can be top heavy. Also never pull when feeders are full.</h2>
   </main>
 <?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>

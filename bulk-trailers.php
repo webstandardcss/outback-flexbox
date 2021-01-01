@@ -77,7 +77,25 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
           </div>
         </div>
       </div>
-
+     
+      <div class="product">
+        <div class="product-row flex-container-row">
+          <div class="product-media">
+            <img class="product-image" src="obf/products/float-tires-pardner-4m.png" alt="Flotation tires" />
+          </div>
+          <br>
+          <br>
+          <div class="product-description">
+          <br>
+          <br> 
+          <br>
+          <br> 
+          <h3>Floatation Tires (per axle) -	$700</h3>
+                      
+          </div>
+        </div>
+      </div>
+      
     <br>
     <br> 
     

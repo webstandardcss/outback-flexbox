@@ -22,7 +22,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
             <p>$360 per set of 4</p>
             
           </div>
-        </div>\
+        </div>
         <br>
         <div class="product-row flex-container-row">
          <div class="product-media">

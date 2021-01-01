@@ -26,8 +26,15 @@ $extraCss = array("searchfix");
       <p>Outback products are “Built Right the First Time, to Last a Lifetime”, withstanding extreme weather, wind and wildlife abuse.</p>
       <p>All Outback products are innovatively designed and built at the original location in Gilmer, Texas. Made with only high quality American steel and craftsmanship, all products are 100% Satisfaction Guaranteed.</p>
       <img class="product-image" src="obf/hunting-photos/new14-141.jpg" alt="Rick Merit with deer" />
-      <h1>Lifetime Warranty</h1>
-      <p>10 year manufacturing defect. We will personally repair, replace or hire a competent repair team to come to your location. After 10 years we will repair at our location in Gilmer Texas. 100% Satisfaction</p>
+      <h1>OUTBACK  WILDLIFE  FEEDERS’  WARRANTY</h1>
+      <p>Outback Wildlife Feeders stands behind our products better than any feeder company, building only products with the best materials and welding practices. Our paint is a special corrosion-resistant, fast-drying, direct-to-metal paint made especially for our products by Sherwin Williams.  We build every Outback product to give years of dependable service so you will never need to replace a particular product for failure to do its intended job.</p> 
+
+      <p>You will need to perform periodic maintenance on our steel product including: removing spilled feed off the top of the feeders (from filling the feeder); also mud or spilled feed needs to be kept off the skids and/or legs (or move the feeder to a better location); and feeders should not be located in standing water. Feeders need to be kept as clean as reasonably possible and repainted every few years to extend years of service. If our products are to be used in close proximity to the Gulf Coast or any other highly corrosive area, the galvanized coating that we offer is an excellent alternative.</p>
+
+      <p>Failure to comply with any of these conditions as well as your efforts to perform reasonable maintenance to insure the products’ integrity could void the warranty.  As we service our products, if we determine that they weren’t properly maintained, there will be a service charge for repairs.</p>
+
+      <p>We do appreciate every one of our customers and your trust in our products' quality workmanship and materials.</p>
+      
       <p>Numerous patents are held by Outback and include: 8201520, 7370605, 6920841, D575908, D599503, D602649, D603104, D603105, D604017, D603566, D624706, D624708, D622453, D624707, D636942, D629572, D629976, D629975, D624709, D630802, D630653, D647253, D642750, D681883. Additional patents are pending. U.S. trademarks included 3629190 & 3625066.</p>
       <img class="product-image" src="obf/Misc/OB-entrance-at-sunset_20140918-1024x768.jpg" alt="Sunset at the Merit ranch" />
     </article>

@@ -140,6 +140,13 @@ sup {
 img {
   border-style: none;
 }
+.product-image2 {
+  max-width: 30vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 /* Forms
    ========================================================================== */

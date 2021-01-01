@@ -13,7 +13,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <h1>Bulk Hoppers</h1>
     
 	    <div class="product">
-        <h2>Regular Product Layout</h2>
+        
         <div class="product-row flex-container-row">
           <div class="product-media">
             <img class="product-image" src="obf/products/1NEWFEE2.-500-trk-hopper-300x261.jpg" alt="Truck Hopper" />

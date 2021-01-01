@@ -14,17 +14,17 @@ $pageKeywords = $pageTitle . " Top Gun Corn Feeder Pistolero Directional Elimina
       <div class="product-row flex-container-row">
         <div class="product-single">
             <div class="product-media">
-              <img class="product-image" src="obf/products/topgun-225x300.jpg" alt="Top Gun" />
+              <img class="product-image" src="obf/products/topgun3-225x300.jpg" alt="Top Gun" />
             </div>
         <div class="product-description">
           <p>With Pistolero Directional</p>
-          <p>$1565</p>
+          <p>$1675</p>
           <img class="product-image" src="obf/products/topgun4-225x300.jpg" alt="Top Gun4" />
         </div>
       </div>
       <div class="product-single">
         <div class="product-media">
-          <img class="product-image" src="obf/products/topgun3-225x300.jpg" alt="Top Gun 3" />
+          <img class="product-image" src="obf/products/topgun-225x300.jpg" alt="Top Gun 3" />
           </div>
           <div class="product-description">
             <p>360 Degree Corn Distribution

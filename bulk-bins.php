@@ -15,7 +15,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 	  <div class="product">
       <div class="product-row flex-container-row">
         <div class="product-media">
-        <img class="product-image" src="obf/products/NEWFEEB-Poco-Blk-bin-768x1024.jpg" alt="Poco Blk Bin" width="384" height="512" />
+        <img class="product-image" src="obf/products/NEWFEEB-Poco-Blk-Bin-768x1024.jpg" alt="Poco Blk Bin" width="384" height="512" />
       </div>
         <div class="product-description">
           <h3>POCO BULK BIN</h3>

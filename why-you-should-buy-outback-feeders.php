@@ -23,7 +23,7 @@ $pageKeywords = $pageTitle . " Buy Outback Feeders cost durability service " . $
 	<p>The definition of durability is the ability to withstand wear, pressure, or damage. With this in mind, Outback Wildlife Feeders are the most heavy duty, the most well built and structurally sound wildlife feeder product you will find on the market. We invest our money into building a better product to pass on to our customers.</p>	
 
 	<h3>Service</h3>
-	<p>Our service is something that we take very seriously. We will come to you and repair or replace at no cost to our customers. Our warranty and service is the best you will find in the feeder market. Our owner personally guarantees that every Outback Wildlife Feeder is built right the first time to last a lifetime.</p>
+	<p>Our service is something that we take very seriously. Our warranty and service is the best you will find in the feeder market. Our owner personally guarantees that every Outback Wildlife Feeder is built right the first time to last a lifetime.</p>
 
 	<p>We hope you consider these four components when purchasing your next wildlife feeder. We have built our company on integrity and honesty we focus on building the best wildlife feeder the world has ever seen.</p> 
   </main>

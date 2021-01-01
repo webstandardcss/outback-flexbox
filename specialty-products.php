@@ -13,7 +13,6 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
 <br>
 <br>
 
-
 <div class="product">
         <div class="product-row flex-container-row">
           <div class="product-media">
@@ -28,6 +27,28 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
         </div>
       </div>
 
+<br>
+<br>
+
+<div class="product">
+        <div class="product-row flex-container-row">
+          <div class="product-media">
+             <img class="product-image" src="obf/products/owf-cottonseed-feeder-2020.jpg" width="288" height="384" alt="Alfalfa Feeder" hspace="30"/>
+          </div>
+          <div class="product-description">
+             <h3>Cottonseed Feeder</h3>
+	          <p>Our Newly designed Cottonseed Feeder. You can purchase the basket and attach it to your existing Alfalfa Feeder.</p>
+
+	          <p>$1025</p>
+
+            <p>Basket: $75 </p>
+
+            <img class="product-image" src="obf/products/owf-cottonseed-feeder-basket-2020.jpg" width="216" height="242" alt="Alfalfa Feeder" hspace="30"/>
+          </div>
+        </div>
+      </div>
+<br>
+<br>
 <br>
 <br>
     <div class="product">

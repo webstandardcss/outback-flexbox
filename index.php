@@ -40,8 +40,8 @@ $extraCss = array("forms");
             realname:Your name,
             phone:Your phone number,
             zipcode:Your zip code,
-            product:The reason you're interested in our product,
-            imgverify:Please type the image text" />
+            product:The reason you're interested in our product" />
+            <!-- COMMENT imgverify:Please type the image text" -->
         <div class="gform_body">
           <ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below">
             <li id="field_4_1" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible">

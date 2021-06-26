@@ -57,7 +57,7 @@ $pageKeywords = $pageTitle . " Protein Feeders gravity flow regulator " . $siteK
           <p>Bear Cages – $250</p>
         </div>
         <p>Features split hopper that allows for gravity-flow protein simultaneously with directional corn<br> distribution controlled by “The Timer” 12-Volt Control Unit with 5 year warranty.<br>
-        Comes standard with three protein tubes. Available with up to six tubes and in three capacities</p>
+        Comes standard with three protein tubes. Available with up to four tubes and in three capacities</p>
       </div>
     </div>
 <br>

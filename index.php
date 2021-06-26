@@ -14,6 +14,18 @@ $extraCss = array("forms");
   <h1>Welcome to Outback Feeders!</h1>
   <!-- iframe src="https://www.youtube.com/embed/yIDBzfALRYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe -->
 
+  <article class="ob-content">
+    <section class="ob-section">
+      <p class="section-description">
+        Due to increases in our prices across the board, and still continuing to rise, we find it necessary to temporarily add a 7% surcharge to all products. 
+It is our hope that this problem will certainly be temporary, but our vendors are telling us that prices will not level off for a good while and some materials
+may not even be available to us.  There are several materials that we cannot find now and we're told it will be several months before they become available.
+We are substituting with the best quality materials we can find.
+      </p>
+      <br>
+      <br>
+      <br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yIDBzfALRYM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
   <div class="form gform-home">
@@ -40,8 +52,8 @@ $extraCss = array("forms");
             realname:Your name,
             phone:Your phone number,
             zipcode:Your zip code,
-            product:The reason you're interested in our product" />
-            <!-- COMMENT imgverify:Please type the image text" -->
+            product:The reason you're interested in our product,
+            imgverify:Please type the image text" />
         <div class="gform_body">
           <ul id="gform_fields_4" class="gform_fields top_label form_sublabel_below description_below">
             <li id="field_4_1" class="gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible">

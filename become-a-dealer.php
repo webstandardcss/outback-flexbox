@@ -16,7 +16,7 @@ $extraCss = array("forms");
     <h2>Apply to Become a Dealer Today</h2>
 
     <div class="gform_wrapper" id="gform_wrapper_4">
-      <form method="post" enctype="multipart/form-data" id="gform_1" action="http://outbackfeeders.com/obf/mail/mail.php">
+      <form method="post" enctype="multipart/form-data" id="gform_1" action="//outbackfeeders.com/obf/mail/mail.php">
           <input type="hidden" name="recipients" value="myaddress" />
           <input type="hidden" name="good_url" value="/" />
           <input type="hidden" name="subject" value="Outback Become a Dealer Form" />

@@ -33,7 +33,7 @@ We are substituting with the best quality materials we can find.
     <h1>Get In Touch</h1>
 
     <div class="gform_wrapper" id="gform_wrapper_4">
-      <form method="post" enctype="multipart/form-data" id="gform_4" action="https://outbackfeeders.com/obf/mail/mail.php">
+      <form method="post" enctype="multipart/form-data" id="gform_4" action="//outbackfeeders.com/obf/mail/mail.php">
         <input type="hidden" name="recipients" value="myaddress" />
         <input type="hidden" name="good_url" value="/" />
         <input type="hidden" name="subject" value="Outback Homepage Get In Touch Form" />
